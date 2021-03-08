@@ -14,15 +14,6 @@
     </td>
   </tr>
 </table>
-Zhuoran Song
-
-Department of Computer Science and Engineering
-
-Shanghai Jiao Tong University
-
-3-125 SEIEE Building, 800 Dongchuan Road, Shanghai 200240, P. R. China
-
-Email: songzhuoran@sjtu.edu.cn
 
 ## Education
 - 2021 Ph.D., Computer Science and Technology, Shanghai Jiao Tong University, Shanghai, China.
