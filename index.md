@@ -1,19 +1,27 @@
 ## Personal Information
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>张三</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b>××大学××学院</b></p>
+      <p><b>邮箱：1234567789@qq.com</b></p>
+      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhuoransong.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 Zhuoran Song
 
 Department of Computer Science and Engineering
 
 Shanghai Jiao Tong University
 
-3-125 SEIEE Building
+3-125 SEIEE Building, 800 Dongchuan Road, Shanghai 200240, P. R. China
 
-800 Dongchuan Road
-
-Shanghai 200240, P. R. China
-
-Email
-
-songzhuoran@sjtu.edu.cn
+Email: songzhuoran@sjtu.edu.cn
 
 ## Education
 - 2021 Ph.D., Computer Science and Technology, Shanghai Jiao Tong University, Shanghai, China.
