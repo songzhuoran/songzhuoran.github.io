@@ -1,7 +1,7 @@
 ## Personal Information
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="55%">
       <h1>Zhuoran Song</h1>
       <p><b>PhD student</b></p>
       <p><b>Department of Computer Science and Engineering</b></p>
