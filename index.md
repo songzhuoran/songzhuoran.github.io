@@ -1,7 +1,7 @@
 ## Personal Information
 <table border="0">
   <tr>
-    <td width="55%">
+    <td width="75%">
       <h1>Zhuoran Song</h1>
       <p><b>PhD student</b></p>
       <p><b>Department of Computer Science and Engineering</b></p>
@@ -10,7 +10,7 @@
       <p><b>Address: 3-125 SEIEE Building, 800 Dongchuan Road, Shanghai 200240, P. R. China</b></p>
     </td>
     <td width="25%">
-      <img src="/zhuoransong.jpg" width="100%">
+      <img src="/songzhuoran.jpg" width="100%">
     </td>
   </tr>
 </table>
