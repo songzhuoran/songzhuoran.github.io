@@ -9,8 +9,8 @@
       <p><b>Email: songzhuoran@sjtu.edu.cn</b></p>
       <p><b>Address: 3-125 SEIEE Building, 800 Dongchuan Road, Shanghai 200240, P. R. China</b></p>
     </td>
-    <td width="25%">
-      <img src="/songzhuoran.jpg" width="200%">
+    <td width="45%">
+      <img src="/songzhuoran.jpg" width="100%">
     </td>
   </tr>
 </table>
