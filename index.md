@@ -32,7 +32,7 @@ GPGPU architecture, ASIC, Non-volatile memory
 Efficient AI/ML algorithms, e.g., Neural Network Compression Tech
 
 - Software Hardware Co-design:
-Flexible/efficient algorithms and domain specific architecture designs
+Flexible/efficient algorithm and domain specific architecture design
 
 
 ## Publications
