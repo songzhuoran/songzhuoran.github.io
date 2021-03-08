@@ -22,5 +22,12 @@
 ## What's new!
 Waitting to be added...
 
+## Research
+Current research interests focuses on:
+
+Architecture:
+
+Software Hardware Co-design:
+
 ## Publications
 *Zhuoran Song*, Dongyue Li, Zhezhi He, Xiaoyao Liang and Li Jiang. ReRAM-Sharing: Fine-Grained Weight Sharing for ReRAM-Based Deep Neural Network Accelerator. Accepted by IEEE International Symposium on Circuits and Systems (ISCAS 2021).
