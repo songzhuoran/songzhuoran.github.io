@@ -40,9 +40,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "songzhuoran@sjtu.edu.cn"
+  google-scholar: "LgHi-gQAAAAJ"
+  github: songzhuoran
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  acebook: deanattali
-  github: songzhuoran
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
@@ -62,7 +63,6 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -113,10 +113,10 @@ page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#99CCCC"
-footer-col: "#FFCCCC"
-footer-text-col: "#FFFFFF"
-footer-link-col: "#99CCCC"
-footer-hover-col: "#99CCCC"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -200,11 +200,11 @@ footer-hover-col: "#99CCCC"
 # See more details about giscus and each of the following parameters at https://giscus.app
 giscus:
  hostname: giscus.app # Replace with your giscus instance's hostname if self-hosting
- repository: liuchang1437/myblog # GitHub username/repository eg. "daattali/beautiful-jekyll"
- repository-id: R_kgDOHq4V_A # ID of your repository, retrieve this info from https://giscus.app
+ repository: songzhuoran/songzhuoran.github.io # GitHub username/repository eg. "daattali/beautiful-jekyll"
+ repository-id: R_kgDOHq7qCQ # ID of your repository, retrieve this info from https://giscus.app
  category: Announcements # Category name of your GitHub Discussion posts
- category-id: DIC_kwDOHq4V_M4CQRAC # ID of your category, retrieve this info from https://giscus.app
- mapping: pathname
+ category-id: DIC_kwDOHq7qCc4CQREd # ID of your category, retrieve this info from https://giscus.app
+ mapping: url
  reactions-enabled: 1
  emit-metadata: 0
  theme: light
@@ -224,7 +224,7 @@ timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 10
 
 kramdown:
   input: GFM
