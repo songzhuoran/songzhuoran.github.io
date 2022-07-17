@@ -24,7 +24,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/me.jpg"
+avatar: "/assets/img/me2.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -40,7 +40,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "songzhuoran@sjtu.edu.cn"
-  google-scholar: "LgHi-gQAAAAJ"
+  google-scholar: "citations?user=LgHi-gQAAAAJ"
   github: songzhuoran
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  acebook: deanattali
