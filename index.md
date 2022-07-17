@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zhuoran Song
-subtitle: ""
+subtitle: "Assistant Professor in the Department of Computer Science and Engineering @ Shanghai Jiao Tong University"
 comments: true
 cover-img:
     - "assets/img/sunrise.jpg": "内蒙古，额济纳旗，居延海 (2020-10)" 
