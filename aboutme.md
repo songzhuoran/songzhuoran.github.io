@@ -21,6 +21,9 @@ Before joining SJTU, I received the PhD degree from Shanghai Jiao Tong Universit
 * Computer Architecture Design: GPGPU architecture, domain specific architecture (DSA), Non-volatile memory (ReRAM)
 * Algorithm: Efficient AI/ML algorithms, e.g., Neural Network Compression Tech
 
+## Recruitment
+Our team is looking for self-motivated PhD, Master and Undergraduate students who are interested in Computer architecture or Efficient AI/ML algorithms. If you want to join us, please email me your CV.
+
 ## Contact
 
 If you have any questions, welcome to [email me](mailto:songzhuoran@sjtu.edu.cn).
