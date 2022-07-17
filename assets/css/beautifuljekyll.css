@@ -465,7 +465,7 @@ footer .footer-custom-content {
 }
 
 .post-preview .post-title {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   margin-top: 0;
 }
 .post-preview .post-subtitle {
@@ -476,7 +476,7 @@ footer .footer-custom-content {
 .post-preview .post-meta,
 .post-heading .post-meta {
   color: #808080;
-  font-size: 1.125rem;
+  font-size: 1rem;
   font-style: italic;
   margin: 0 0 0.625rem;
   font-family: 'Lora', 'Times New Roman', serif;
@@ -549,7 +549,7 @@ footer .footer-custom-content {
 
 @media (min-width: 768px) {
   .post-preview .post-title {
-    font-size: 1.8rem;
+    font-size: 1.4rem;
   }
 }
 

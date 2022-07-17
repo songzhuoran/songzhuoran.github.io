@@ -47,8 +47,8 @@ layout: page
       </a>
 
       <p class="post-meta">
-        {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-        Posted on {{ post.date | date: date_format }}
+        {% assign date_format = site.date_format | default: "%Y" %}
+        Published on {{ post.date | date: date_format }}
       </p>
 
       {% if thumbnail != "" %}
