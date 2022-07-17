@@ -87,7 +87,7 @@ share-links-active:
 url-pretty: "songzhuoran.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 100
+excerpt_length: 200
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
@@ -226,7 +226,7 @@ timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 10
+paginate: 20
 
 kramdown:
   input: GFM
