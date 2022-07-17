@@ -666,7 +666,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 3.125rem;
+  font-size: 2rem;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
@@ -722,7 +722,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     font-size: 5rem;
   }
   .intro-header .post-heading h1 {
-    font-size: 3.125rem;
+    font-size: 2rem;
   }
   .intro-header.big-img .img-desc {
     font-size: 0.875rem;
