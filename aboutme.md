@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+comments: true
 ---
 
 我叫宋卓然，目前是上海交通大学计算机系的一名助理研究员。 blahblah
