@@ -14,8 +14,8 @@ author: Zhuoran Song
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Research Group: "researchgroup"
   News: "news"
+  Research Group: "researchgroup"
   About Me: "aboutme"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
