@@ -1,11 +1,12 @@
 ---
 thumbnail-img: assets/img/posts/energy.jpg
 ---
-Li Jiang, **Zhuoran Song**, Haiyue Song, Chengwen Xu, Qiang Xu, Naifeng Jing, Weifeng Zhang, Xiaoyao Liang
-
 Approximate computing is a promising design paradigm that introduces a new dimension--error--into the original design space. By allowing the inexact computation in error-tolerance applications, approximate computing can gain both performance and energy-efficiency. A neural network~(NN) is a universal approximator in theory and possesses a high level of parallelism. The emerging DNN accelerators deployed with NN-based approximator is thereby a promising candidate for approximate computing. Nevertheless, the approximation result must satisfy the users' requirement, and the approximation result varies across different applications. We normally deploy an NN-based classifier to ensure the approximation quality. Only the inputs predicted to meet the quality requirement can be executed by the approximator. The potential of these two NNs, however, is fully explored; the involving of two NNs in approximate computing imposes critical optimization questions, such as two NN's distinct views of the input data space, how to train the two correlated NNs, what are their topologies. 
 
 In this paper, we propose a novel NN-based approximate computing framework with quality insurance. We advocate a co-training approach that trains the classifier and the approximator alternately to maximize the agreement of the two NNs on the input space. In each iteration, we coordinate the training of the two NNs with a judicious selection of training data. Next, we explore different selection policies and propose to select training data from multiple iterations, which can enhance the invocation of the approximate accelerator.  Also, we optimize the classifier by integrating a dynamic threshold tuning algorithm to improve the invocation of the approximate accelerator further. The increased invocation of accelerator leads to higher energy-efficiency under the same quality requirement. We propose two efficient algorithms to explore the smallest topology of the NN-based approximator and the classifier to achieve the quality requirement. The first algorithm straightforward search the minimum topology using a greedy strategy. However, the first algorithm incurs too much training overhead. To solve this issue, the second one gradually grows the topology of NNs to match the quality requirement by transferring the learned parameters. Experimental results show significant improvement on the quality and the energy-efficiency compared to the existing NN-based approximate computing frameworks.
+
+Authors: Li Jiang\*, **Zhuoran Song\***, Haiyue Song, Chengwen Xu, Qiang Xu, Naifeng Jing, Weifeng Zhang, Xiaoyao Liang.
+
 
 ![energy](/assets/img/posts/energy.jpg)
 
