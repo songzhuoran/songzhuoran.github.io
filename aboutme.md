@@ -22,7 +22,7 @@ Before joining SJTU, I received the PhD degree from Shanghai Jiao Tong Universit
 * Algorithm: Efficient AI/ML algorithms, e.g., Neural Network Compression Tech
 
 ## Recruitment
-Our [[team]](https://acalab.sjtu.edu.cn/CN/Default.aspx) is looking for self-motivated PhD, Master and Undergraduate students who are interested in Computer architecture or Efficient AI/ML algorithms. If you want to join us, please email me your CV.
+Our [team](https://acalab.sjtu.edu.cn/CN/Default.aspx) is looking for self-motivated PhD, Master and Undergraduate students who are interested in Computer architecture or Efficient AI/ML algorithms. If you want to join us, please email me your CV.
 
 ## Contact
 
