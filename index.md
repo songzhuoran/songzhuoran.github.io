@@ -9,10 +9,10 @@ cover-img:
     - "assets/img/ejinaqi.jpg": "内蒙古，额济纳旗，胡杨林 (2020-10)" 
 ---
 
-**Zhuoran Song**, Naifeng Jing and Xiaoyao Liang. E$^2$-VOR: An End-to-End En/Decoder Architecture for Efficient Video Object Recognition. Accepted by Transactions on Design Automation of Electronic Systems (TODAES 2022, CCF-B). [[paper]](https://dl.acm.org/doi/abs/10.1145/3543852) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:hfL9h0aBYbQJ:scholar.google.com/&output=citation&scisdr=CgVSaNk7EPjT2ELiVB8:AAGBfm0AAAAAYtPkTB-566EDTisQnXmFruUXZ7Mlsidp&scisig=AAGBfm0AAAAAYtPkTLYtAbVb8B13bMvtA4woyrmaRTNy&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+**Zhuoran Song**, Naifeng Jing and Xiaoyao Liang. E^2^-VOR: An End-to-End En/Decoder Architecture for Efficient Video Object Recognition. Accepted by Transactions on Design Automation of Electronic Systems (TODAES 2022, CCF-B). [[paper]](https://dl.acm.org/doi/abs/10.1145/3543852) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:hfL9h0aBYbQJ:scholar.google.com/&output=citation&scisdr=CgVSaNk7EPjT2ELiVB8:AAGBfm0AAAAAYtPkTB-566EDTisQnXmFruUXZ7Mlsidp&scisig=AAGBfm0AAAAAYtPkTLYtAbVb8B13bMvtA4woyrmaRTNy&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
 
-**Zhuoran Song**, Zhongkai Yu, Naifeng Jing and Xiaoyao Liang. E$^2$SR: An End-to-End Video CODEC Assisted System for Super Resolution Acceleration. Accepted by Design Automation Conference (DAC 2022, CCF-A).
+**Zhuoran Song**, Zhongkai Yu, Naifeng Jing and Xiaoyao Liang. E^2^SR: An End-to-End Video CODEC Assisted System for Super Resolution Acceleration. Accepted by Design Automation Conference (DAC 2022, CCF-A).
 
 Tao Yang, Dongyue Li, Fei Ma, **Zhuoran Song**, Yilong Zhao, Jiaxi Zhang, Fangxin Liu and Li Jiang. PASGCN: An ReRAM-Based PIM Design for GCN with Adaptively Sparsified Graphs. Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2022, CCF-A).
 
