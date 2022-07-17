@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+我叫宋卓然，目前是上海交通大学计算机系的一名助理研究员。 blahblah
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+我的教育经历：
+* 2012.9 - 2016.6 B.S. 华中科技大学
+* 2016.9 - 2021.6 Ph.D. 上海交通大学
 
-What else do you need?
+目前的研究方向：
+* 软硬件协同
+* blahblah
 
-### My story
+### Contact
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+有任何问题，都可以给我发[邮件](mailto:songzhuoran@sjtu.edu.cn)。
