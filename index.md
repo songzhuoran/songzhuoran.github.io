@@ -7,6 +7,9 @@ cover-img:
     - "assets/img/sunrise.jpg": "内蒙古，额济纳旗，居延海 (2020-10)" 
     - "assets/img/lake.jpg": "内蒙古，额济纳旗，居延海 (2020-10)" 
     - "assets/img/ejinaqi.jpg": "内蒙古，额济纳旗，胡杨林 (2020-10)" 
+    - "assets/img/italy.jpeg": "意大利，佛罗伦萨 (2020-10)" 
+    - "assets/img/italy.jpeg": "意大利，佛罗伦萨 (2020-10)" 
+    - "assets/img/venice.jpeg": "意大利，威尼斯 (2020-10)" 
 ---
 
 **Zhuoran Song**, Naifeng Jing and Xiaoyao Liang. E<sup>2</sup>-VOR: An End-to-End En/Decoder Architecture for Efficient Video Object Recognition. Accepted by Transactions on Design Automation of Electronic Systems (TODAES 2022, CCF-B). [[paper]](https://dl.acm.org/doi/abs/10.1145/3543852) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:hfL9h0aBYbQJ:scholar.google.com/&output=citation&scisdr=CgVSaNk7EPjT2ELiVB8:AAGBfm0AAAAAYtPkTB-566EDTisQnXmFruUXZ7Mlsidp&scisig=AAGBfm0AAAAAYtPkTLYtAbVb8B13bMvtA4woyrmaRTNy&scisf=4&ct=citation&cd=-1&hl=zh-CN)
