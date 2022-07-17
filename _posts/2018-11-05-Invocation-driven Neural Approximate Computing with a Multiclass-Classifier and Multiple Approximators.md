@@ -1,11 +1,11 @@
 ---
-thumbnail-img: assets/img/posts/dropout.jpg
+thumbnail-img: assets/img/posts/approximate.jpg
 ---
 Haiyue Song, Li Jiang, Chengwen Xu, **Zhuoran Song**, Naifeng Jing, Xiaoyao Liang and Qiang Xu.
 
-The training phases of Deep neural network (DNN) consumes enormous processing time and energy. Compression techniques utilizing the sparsity of DNNs can effectively accelerate the inference phase of DNNs. However, it can be hardly used in the training phase because the training phase involves dense matrix-multiplication using General Purpose Computation on Graphics Processors (GPGPU), which endorse regular and structural data layout. In this paper, we propose the Approximate Random Dropout that replaces the conventional random dropout of neurons and synapses with a regular and online generated patterns to eliminate the unnecessary computation and data access. We develop a SGD-based Search Algorithm that producing the distribution of dropout patterns to compensate the potential accuracy loss. We prove our approach is statistically equivalent to the previous dropout method. Experiments results on multilayer perceptron (MLP) and long short-term memory (LSTM) using well-known benchmarks show that the speedup rate brought by the proposed Approximate Random Dropout ranges from 1.18-2.16 (1.24-1.85) when dropout rate is 0.3-0.7 on MLP (LSTM) with negligible accuracy drop.
+Neural approximate computing gains enormous energy-efficiency at the cost of tolerable quality-loss. A neural approximator can map the input data to output while a classifier determines whether the input data are safe to approximate with quality guarantee. However, existing works cannot maximize the invocation of the approximator, resulting in limited speedup and energy saving. By exploring the mapping space of those target functions, in this paper, we observe a nonuniform distribution of the approximation error incurred by the same approximator. We thus propose a novel approximate computing architecture with a Multiclass-Classifier and Multiple Approximators (MCMA). These approximators have identica network topologies, and thus can share the same hardware resource in an neural processing unit(NPU) clip. In the runtime, MCMA can swap in the invoked approximator by merely shipping the synapse weights from the on-chip memory to the buffers near MAC within a cycle. We also propose efficient co-training methods for such MCMA architec- ture. Experimental results show a more substantial invocation of MCMA as well as the gain of energy-efficiency.
 
-![dropout](/assets/img/posts/dropout.jpg)
+![approximate](/assets/img/posts/approximate.jpg)
 
 * Accepted by ACM/IEEE International Conference on Computer-Aided Design (ICCAD 2018, CCF-B)
 * [[paper]](https://dl.acm.org/doi/abs/10.1145/3240765.3240819)
