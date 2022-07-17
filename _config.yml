@@ -40,12 +40,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "songzhuoran@sjtu.edu.cn"
-  scholar: "https://scholar.google.com/citations?user=LgHi-gQAAAAJ&hl=en&oi=ao"
-  dblp: "https://dblp.org/pid/220/4324.html"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  acebook: deanattali
   github: songzhuoran
-  wechat: yy418599104
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
