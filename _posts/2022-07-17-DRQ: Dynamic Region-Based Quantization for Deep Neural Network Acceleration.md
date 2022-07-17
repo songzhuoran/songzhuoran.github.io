@@ -1,3 +1,7 @@
+---
+thumbnail-img: assets/img/me.jpg
+---
+
 **Zhuoran Song**, Bangqi Fu, Feiyang Wu, Zhaoming Jiang, Li Jiang, Naifeng Jing and Xiaoyao Liang
 
 
