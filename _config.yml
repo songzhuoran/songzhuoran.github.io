@@ -106,17 +106,17 @@ edit_page_button: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#FFA500"
+navbar-col: "#FFCC99"
 navbar-text-col: "#FFFFFF"
-navbar-border-col: "#DDDDDD"
+navbar-border-col: "#FFCCCC"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+hover-col: "#99CCCC"
+footer-col: "#FFCCCC"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#99CCCC"
+footer-hover-col: "#99CCCC"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
