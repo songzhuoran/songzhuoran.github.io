@@ -9,13 +9,13 @@ I am an assistant professor at Shanghai Jiao Tong University (SJTU), working on 
 Before joining SJTU, I received the PhD degree from Shanghai Jiao Tong University of Computer Science and Technology in 2021, where I was supervised by Prof. Xiaoyao Liang.
 
 
-## Education:
+## Education
 
 * 2021 Ph.D., Computer Science and Technology, Shanghai Jiao Tong University, Shanghai, China.
 * 2016 B.S., Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China.
 
 
-## Research:
+## Research
 
 * Software Hardware Co-design: Flexible/efficient algorithm and architecture co-design
 * Computer Architecture Design: GPGPU architecture, domain specific architecture (DSA), Non-volatile memory (ReRAM)

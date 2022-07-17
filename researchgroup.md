@@ -1,3 +1,9 @@
+---
+layout: page
+title: Research Group
+comments: true
+---
+
 ## PhD:
 * Xuhang Wang (co-supervised, 2020-)
 
