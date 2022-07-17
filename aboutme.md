@@ -9,30 +9,16 @@ I am an assistant professor at Shanghai Jiao Tong University (SJTU), working on 
 Before joining SJTU, I received the PhD degree from Shanghai Jiao Tong University of Computer Science and Technology in 2021, where I was supervised by Prof. Xiaoyao Liang.
 
 
-Education:
+## Education:
 * 2021 Ph.D., Computer Science and Technology, Shanghai Jiao Tong University, Shanghai, China.
 * 2016 B.S., Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China.
 
 
-Research:
+## Research:
 * Software Hardware Co-design: Flexible/efficient algorithm and architecture co-design
 * Computer Architecture Design: GPGPU architecture, domain specific architecture (DSA), Non-volatile memory (ReRAM)
 * Algorithm: Efficient AI/ML algorithms, e.g., Neural Network Compression Tech
 
-Student:
-* Xuhang Wang (PhD, co-supervised, 2020-)
-* Heng Lu (Master, co-supervised, 2021-)
-* Linan Yang (Master, co-supervised, 2021-)
-* Yukang Tian (Master, co-supervised, 2021-)
-* Chunyu Qi (Master, co-supervised, 2022-)
-* MingZhong Guo (Undergraduate)
-* Ruiqi Lai (Undergraduate)
-* Xinhe Wang (Undergraduate)
-* Tiancheng Zhang (Undergraduate)
-* Yingfeng Li (Alumni, 2022)
-* Hengsong Liu (Alumni, 2022)
-* JiuZhang Wang (Alumni, 2022)
-
-### Contact
+## Contact
 
 If you have any questions, welcome to [email me](mailto:songzhuoran@sjtu.edu.cn).
