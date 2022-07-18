@@ -4,10 +4,14 @@ title: Zhuoran Song
 subtitle: "Assistant Professor in the Department of Computer Science and Engineering @ Shanghai Jiao Tong University"
 comments: true
 cover-img:
+    - "assets/img/sunrise.jpg": "新疆，赛里木湖 (2021-09)" 
+    - "assets/img/sunrise.jpg": "新疆，喀纳斯 (2021-09)" 
     - "assets/img/sunrise.jpg": "内蒙古，额济纳旗，居延海 (2020-10)" 
     - "assets/img/lake.jpg": "内蒙古，额济纳旗，居延海 (2020-10)" 
     - "assets/img/ejinaqi.jpg": "内蒙古，额济纳旗，胡杨林 (2020-10)" 
-    - "assets/img/italy.jpeg": "意大利，佛罗伦萨 (2020-10)" 
+    - "assets/img/moshigongyuan.jpg": "四川，墨石公园 (2020-04)" 
+    - "assets/img/daocheng.jpg": "四川，稻城，稻城亚丁 (2020-04)" 
+    - "assets/img/italy.jpeg": "意大利，佛罗伦萨 (2019-10)" 
     - "assets/img/italy.jpeg": "意大利，佛罗伦萨 (2020-10)" 
     - "assets/img/venice.jpeg": "意大利，威尼斯 (2020-10)" 
 ---
