@@ -21,6 +21,9 @@ cover-img:
 
 Heng Lu, **Zhuoran Song\***, Xing Li, Naifeng Jing and Xiaoyao Liang. GCNTrain: A Unified and Efficient Accelerator for Graph Convolutional Neural Networks Training. Accepted by 40th IEEE International Conference on Computer Design (ICCD 2022, CCF-B).
 
+Gang Li, Weixiang Xu, **Zhuoran Song**, Naifeng Jing, Jian Chen and Xiaoyao Liang. Ristretto: An Atomized Processing Architecture for Sparsity-Condensed Stream Flow in CNN. Accepted by 55th ACM/IEEE International Symposium on Microarchitecture (MICRO 2022, CCF-A).
+
+
 Xing Li, Rachata Ausavarungnirun, Xiao Liu, Xueyuan Liu, Xuan Zhang, Heng Lu, **Zhuoran Song**, Naifeng Jing and Xiaoyao Liang. Gzippo: Highly-compact Processing-In-Memory Graph Accelerator Alleviating Sparsity and Redundancy. Accepted by 2022 IEEE/ACM International Conference on Computer-Aided Design (ICCAD 2022, CCF-B).
 
 
