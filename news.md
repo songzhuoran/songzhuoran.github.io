@@ -4,6 +4,9 @@ title: News
 comments: true
 ---
 
+* 2022.09. Zhuoran Song received 2022 ACM ChinaSys Doctoral Dissertation Award [[link]](https://mp.weixin.qq.com/s/MzwkbHgoznq4bydCh9duog).
+
+
 * 2022.09. Zhuoran Song received funding from NSFC.
 
 * 2022.09. Our paper "GCNTrain: A Unified and Efficient Accelerator for Graph Convolutional Neural Networks Training" has been accepted by ICCD.
@@ -12,7 +15,7 @@ comments: true
 
 * 2022.08. Our paper "Gzippo: Highly-compact Processing-In-Memory Graph Accelerator Alleviating Sparsity and Redundancy" has been accepted by ICCAD.
 
-* 2022.07. Zhuoran Song received 2021 Shanghai CCF Outstanding Dissertation Award.
+* 2022.07. Zhuoran Song received 2021 Shanghai CCF Outstanding Dissertation Award [[link]](https://mp.weixin.qq.com/s/YZXrmL6-8LpwnBhvEUrMzw).
 
 * 2022.06. Our paper "E$^2$-VOR: An End-to-End En/Decoder Architecture for Efficient Video Object Recognition" has been accepted by TODAES.
 
