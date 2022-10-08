@@ -18,6 +18,7 @@ cover-img:
     - "assets/img/venice.jpeg": "意大利，威尼斯 (2020-10)" 
 ---
 
+**Zhuoran Song**, Heng Lu, Naifeng Jing and Xiaoyao Liang. Real-Time Video Recognition via Decoder-Assisted Neural Network Acceleration Framework. Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2020, CCF-A).
 
 Heng Lu, **Zhuoran Song\***, Xing Li, Naifeng Jing and Xiaoyao Liang. GCNTrain: A Unified and Efficient Accelerator for Graph Convolutional Neural Networks Training. Accepted by 40th IEEE International Conference on Computer Design (ICCD 2022, CCF-B).
 
