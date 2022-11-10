@@ -24,6 +24,7 @@ Before joining SJTU, I received the PhD degree from Shanghai Jiao Tong Universit
 
 ## Professional Service
 
+* TPC member for DAC 2023
 * Reviewer of IEEE Transactions on Circuits and Systems I (TCAS-I)
 * Reviewer of ACM Transactions on Design Automation of Electronic System (TODAES)
 * Reviewer of IEEE Transactions on Computers (TC)
