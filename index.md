@@ -5,7 +5,6 @@ subtitle: "Assistant Professor in the Department of Computer Science and Enginee
 comments: true
 cover-img:
     - "assets/img/sailimuhu.jpg": "新疆，赛里木湖 (2021-09)" 
-    - "assets/img/kanasi.jpg": "新疆，喀纳斯 (2021-09)" 
     - "assets/img/kanasi2.jpg": "新疆，喀纳斯 (2021-09)" 
     - "assets/img/tianshan.jpg": "新疆，天山 (2021-09)" 
     - "assets/img/sunrise.jpg": "内蒙古，额济纳旗，居延海 (2020-10)" 
@@ -16,6 +15,12 @@ cover-img:
     - "assets/img/italy.jpeg": "意大利，佛罗伦萨 (2019-10)" 
     - "assets/img/italy.jpeg": "意大利，佛罗伦萨 (2020-10)" 
     - "assets/img/venice.jpeg": "意大利，威尼斯 (2020-10)" 
+    - "assets/img/hunshazhao1.jpg": "上海 (2022-10)" 
+    - "assets/img/hunshazhao2.jpg": "上海 (2022-10)" 
+    - "assets/img/hunshazhao3.jpg": "上海 (2022-10)" 
+    - "assets/img/hunshazhao4.jpg": "上海 (2022-10)" 
+    - "assets/img/hunshazhao5.jpg": "上海 (2022-10)" 
+    - "assets/img/hunshazhao6.jpg": "上海 (2022-10)" 
 ---
 
 **Zhuoran Song**, Heng Lu, Li Jiang, Naifeng Jing and Xiaoyao Liang. Real-Time Video Recognition via Decoder-Assisted Neural Network Acceleration Framework. Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2022, CCF-A).
