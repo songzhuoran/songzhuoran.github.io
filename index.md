@@ -36,7 +36,7 @@ Xing Li, Rachata Ausavarungnirun, Xiao Liu, Xueyuan Liu, Xuan Zhang, Heng Lu, **
 
 Tao Yang, Dongyue Li, Fei Ma, **Zhuoran Song**, Yilong Zhao, Jiaxi Zhang, Fangxin Liu and Li Jiang. PASGCN: An ReRAM-Based PIM Design for GCN with Adaptively Sparsified Graphs. Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2022, CCF-A).
 
-Tao Yang, Dongyue Li, **Zhuoran Song**, Yilong Zhao, Fangxin Liu, Zongwu Wang, Zhezhi He and Li Jiang. DTQAtten: Leveraging Dynamic Token-based Quantization for Efficient Attention Architecture. Accepted by ACM/IEEE Design Automation & Test in Europe Conference and Exhibition (DATE 2022, CCF-B).
+Tao Yang, Dongyue Li, **Zhuoran Song**, Yilong Zhao, Fangxin Liu, Zongwu Wang, Zhezhi He and Li Jiang. DTQAtten: Leveraging Dynamic Token-based Quantization for Efficient Attention Architecture. Accepted by ACM/IEEE Design Automation & Test in Europe Conference and Exhibition (DATE 2022, CCF-B). <font color=red>Best Paper Nomination.</font>
 
 **宋卓然**，蒋力。深度神经网络专用架构与压缩技术演进。中国计算机学会通讯，2021年第3期。
 
