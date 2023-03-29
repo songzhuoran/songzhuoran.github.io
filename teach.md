@@ -18,4 +18,5 @@ L3-1 [[ppt]](https://github.com/songzhuoran/songzhuoran.github.io/tree/master/do
 
 L3-2 [[ppt]](https://github.com/songzhuoran/songzhuoran.github.io/tree/master/docs/ppt-files/L3-2.pdf)
 
+**2023. CS433. Parallel and Distributed Computing.**
 
