@@ -6,17 +6,15 @@ comments: true
 
 ## PhD
 * Xuhang Wang (co-supervised, 2020-)
+* Xueyuann Liu (co-supervised, 2020-)
+* Xing Li (co-supervised, 2020-)
+* Xuan Zhang (co-supervised, 2019-)
 
 ## Master
-* Heng Lu (co-supervised, 2021-)
-* Linan Yang (co-supervised, 2021-)
-* Yukang Tian (co-supervised, 2021-)
-* Wanzhen Liu (co-supervised, 2021-)
 * Chunyu Qi (co-supervised, 2022-)
+* Jiabei Long (co-supervised, 2022-)
 
 ## Undergraduate
-* MingZhong Guo (2022-)
-* Ruiqi Lai (2022-)
 * Xinhe Wang (2022-)
 * Tiancheng Zhang (2022-)
 * Keye Chen (2022-)
@@ -26,7 +24,13 @@ comments: true
 * Qi'ao Liu (2022-)
 
 ## Alumni
-* Yihong Xu (2023, Tsinghua)
+* MingZhong Guo (2023, Stanford University)
+* Ruiqi Lai (2023, Nanyang Technological University)
+* Heng Lu (2023, T-Head)
+* Linan Yang (2023, Alibaba group)
+* Yukang Tian (2023, Bytedance)
+* Wanzhen Liu (2023, HEXIN Technologies)
+* Yihong Xu (2023, Tsinghua University)
 * Yingfeng Li (2022)
 * Hengsong Liu (2022)
 * JiuZhang Wang (2022)
