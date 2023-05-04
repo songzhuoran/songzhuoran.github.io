@@ -23,7 +23,9 @@ comments: true
 * Zhuoheng Li (2022-)
 * Qi'ao Liu (2022-)
 
+
 ## Alumni
+* Zilong Li (2023, Shanghai Jiao Tong University)
 * MingZhong Guo (2023, Stanford University)
 * Ruiqi Lai (2023, Nanyang Technological University)
 * Heng Lu (2023, T-Head)
