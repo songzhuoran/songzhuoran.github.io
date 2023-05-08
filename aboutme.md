@@ -10,11 +10,11 @@ Before joining SJTU, I received the PhD degree from Shanghai Jiao Tong Universit
 
 ## Questions about me
 
-* 对学生的态度是什么？What is the attitude towards students?
+* 对学生的态度是什么？What is my attitude towards students?
 1. 以培养你的研究思维为主（项目较少），亲自把关你的idea，会帮助你润色论文。Train your research thinking skills, personally reviewing your ideas and polishing your papers.
 2. 不需要你996，但希望你能按时完成我给的任务。You are not required to work from 9am to 9pm, but you are expected to complete the tasks on time.
-3. 希望自己的学生都能按时毕业。It is hoped that all students can graduate on time.
-4. 不存在打卡制度，希望你作为一名硕士/博士研究生，拥有基本的自律意识。There is no punching-in system; you should have a sense of self-discipline as a master/doctoral student.
+3. 希望自己的学生都能按时毕业。I hope that all students can graduate on time.
+4. 不存在打卡制度，希望你作为一名硕士/博士研究生，拥有基本的自律意识。There is no office check-in; you should have a sense of self-discipline as a master/doctoral student.
 
 * 对学生有什么要求？What are the requirements for students?
 1. 具有一定的辩证性思维：请不要对我说的每一句话表示肯定，我也会有出错的时候。Possess critical thinking: please do not affirm everything I said, as I can also make mistakes.
@@ -25,7 +25,7 @@ Before joining SJTU, I received the PhD degree from Shanghai Jiao Tong Universit
 6. 有基础的体系结构相关知识与背景。Have a basic knowledge and background on computer architecture.
 
 * 对学生的培养流程是什么？What is the process for mentoring students?
-1. 初期，希望教会你如何选择一篇好论文进行阅读论文。In the initial stage, guide you in selecting a good paper for reading and writing.
+1. 初期，希望教会你如何选择一篇好论文进行阅读。In the initial stage, guide you in selecting a good paper for reading and writing.
 2. 中期，希望教会你如何提出idea并通过我们共同的反复打磨（其中存在大量试错）形成你的第一篇论文。In the middle stage, teach you how to propose ideas and do experiments(with a lot of trial and error).
 3. 末期，希望教会你独立科研的能力。In the final stage, focus on developing the ability to conduct independent scientific research.
 
