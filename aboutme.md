@@ -4,9 +4,7 @@ title: About me
 comments: true
 ---
 
-I am an assistant professor at Shanghai Jiao Tong University (SJTU), working on computer architecture design, software-hardware co-design, and GPGPU for flexible/efficient deep learning and cloud gaming applications. 
-
-Before joining SJTU, I received the PhD degree from Shanghai Jiao Tong University of Computer Science and Technology in 2021, where I was supervised by Prof. Xiaoyao Liang.
+I am an assistant professor at Shanghai Jiao Tong University (SJTU), working on computer architecture design, software-hardware co-design, and GPGPU for flexible/efficient deep learning and cloud gaming applications. Before joining SJTU, I received the PhD degree from Shanghai Jiao Tong University of Computer Science and Technology in 2021, where I was supervised by Prof. Xiaoyao Liang. And I'm also honored to work with Prof. Li Jiang and Prof. Naifeng Jing during my PhD.
 
 ## Questions about me
 
