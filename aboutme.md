@@ -29,6 +29,25 @@ Before joining SJTU, I received the PhD degree from Shanghai Jiao Tong Universit
 2. 中期，希望教会你如何提出idea并通过我们共同的反复打磨（其中存在大量试错）形成你的第一篇论文；
 3. 末期，希望教会你独立科研的能力
 
+* What is the attitude towards students?
+1. Train your research thinking skills, personally reviewing your ideas, and helping you polish your papers;
+2. You are not required to work from 9am to 9pm, but you are expected to complete the tasks given to you on time;
+3. It is hoped that all students can graduate on time;
+4. There is no punching-in system, and it is hoped that as a master/doctoral student, you have a basic sense of self-discipline.
+
+* What are the requirements for students?
+1. Possess a certain level of dialectical thinking: please do not affirm everything I say, as I can also make mistakes;
+2. Possess strong logical thinking ability;
+3. Have the courage to try and make mistakes: our research direction is not achieved overnight, and it is common to propose an idea that does not work, so be mentally prepared;
+4. Have a clear self-plan and goals, such as post-graduation plans for a PhD/master's degree;
+5. Have a certain level of engineering ability, mainly including software (C, C++, Python, CUDA) and hardware (Verilog);
+6. Have a basic knowledge and background in architecture.
+
+* What is the process for cultivating students?
+1. In the initial stage, it is hoped that you can be taught how to select a good paper for reading and writing;
+2. In the middle stage, it is hoped that you can be taught how to propose ideas and jointly refine them through repeated experimentation (with a lot of trial and error) to form your first paper;
+3. In the final stage, it is hoped that you can be taught the ability to conduct independent scientific research.
+
 ## Education
 
 * 2021 Ph.D., Computer Science and Technology, Shanghai Jiao Tong University, Shanghai, China.
