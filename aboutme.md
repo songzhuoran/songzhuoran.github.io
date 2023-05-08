@@ -10,8 +10,8 @@ Before joining SJTU, I received the PhD degree from Shanghai Jiao Tong Universit
 
 ## Questions about me
 
-* 对学生的态度是什么？
-1. 以培养你的研究思维为主（项目较少），亲自把关你的idea，会帮助你润色论文；
+* 对学生的态度是什么？What is the attitude towards students?
+1. 以培养你的研究思维为主（项目较少），亲自把关你的idea，会帮助你润色论文；Train your research thinking skills, personally reviewing your ideas and polishing your papers;
 2. 不需要你996，但希望你能按时完成我给的任务；
 3. 希望自己的学生都能按时毕业；
 4. 不存在打卡制度，希望你作为一名硕士/博士研究生，拥有基本的自律意识
@@ -47,11 +47,6 @@ Before joining SJTU, I received the PhD degree from Shanghai Jiao Tong Universit
 1. In the initial stage, guide you in selecting a good paper for reading and writing;
 2. In the middle stage, teach you how to propose ideas and do experiments(with a lot of trial and error);
 3. In the final stage, focus on developing the ability to conduct independent scientific research.
-
-## Education
-
-* 2021 Ph.D., Computer Science and Technology, Shanghai Jiao Tong University, Shanghai, China.
-* 2016 B.S., Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China.
 
 
 ## Research Topic
