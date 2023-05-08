@@ -8,7 +8,7 @@ I am an assistant professor at Shanghai Jiao Tong University (SJTU), working on 
 
 ## Questions about me
 
-* 对学生的态度是什么？What is my attitude towards students?
+* 对学生的态度是什么？What is the attitude towards students?
 1. 以培养你的研究思维为主（项目较少），亲自把关你的idea，会帮助你润色论文。Train your research thinking skills, personally reviewing your ideas and polishing your papers.
 2. 不需要你996，但希望你能按时完成我给的任务。You are not required to work from 9am to 9pm, but you are expected to complete the tasks on time.
 3. 希望自己的学生都能按时毕业。I hope that all students can graduate on time.
