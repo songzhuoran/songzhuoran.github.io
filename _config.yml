@@ -14,12 +14,12 @@ author: Zhuoran Song
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
   Publications: "publications"
   Honors: "awards"
   News: "news"
   Teach: "teach"
   Research Group: "researchgroup"
+  About Me: "aboutme"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
