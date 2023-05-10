@@ -7,7 +7,6 @@ comments: true
 ## PhD
 * Xuhang Wang (co-supervised, 2020-)
 * Xueyuann Liu (co-supervised, 2020-)
-* Xing Li (co-supervised, 2020-)
 * Xuan Zhang (co-supervised, 2019-)
 
 ## Master
