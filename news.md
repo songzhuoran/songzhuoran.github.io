@@ -4,7 +4,7 @@ title: News
 comments: true
 ---
 
-* 2023.06. My student Zilong Li has received Outstanding Bachelor's Thesis Award in Computer Science and Technology from Shanghai Jiao Tong University [[link]](https://www.cs.sjtu.edu.cn/NewNoticeDetail.aspx?id=530). Congratulations to Zilong.
+* 2023.06. My student Zilong Li has received Outstanding Bachelor's Thesis Award from School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University [[link]](https://www.cs.sjtu.edu.cn/NewNoticeDetail.aspx?id=530). Congratulations to Zilong.
 
 * 2023.03. Our paper "PRADA: Point Cloud Recognition Acceleration via Dynamic Approximation" has received Best Paper Award from DATE 2023.
 
@@ -21,6 +21,8 @@ comments: true
 * 2022.08. Our paper "Gzippo: Highly-compact Processing-In-Memory Graph Accelerator Alleviating Sparsity and Redundancy" has been accepted by ICCAD.
 
 * 2022.07. Zhuoran Song received 2021 Shanghai CCF Outstanding Dissertation Award [[link]](https://mp.weixin.qq.com/s/YZXrmL6-8LpwnBhvEUrMzw).
+
+* 2022.06. My student Jiuzhang Wang has received Outstanding Bachelor's Thesis Award from School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University [[link]](https://cs.sjtu.edu.cn/NewNoticeDetail.aspx?id=477). Congratulations to Jiuzhang.
 
 * 2022.06. Our paper "E$^2$-VOR: An End-to-End En/Decoder Architecture for Efficient Video Object Recognition" has been accepted by TODAES.
 
