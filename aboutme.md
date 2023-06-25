@@ -38,6 +38,7 @@ I am an assistant professor at Shanghai Jiao Tong University (SJTU), working on 
 
 ## Professional Service
 
+* TPC member for ICCD 2023
 * TPC member for ICCAD 2023
 * TPC member for DAC 2023
 * Reviewer of IEEE Transactions on Circuits and Systems I (TCAS-I)
