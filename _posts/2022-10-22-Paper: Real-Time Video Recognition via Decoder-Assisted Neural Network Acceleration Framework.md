@@ -1,0 +1,12 @@
+---
+thumbnail-img: assets/img/posts/real-frame.jpg
+---
+Due to the restricted on-chip computing capability for deep neural network (DNN) processing, high-definition video recognition (VOR) task is not easily achievable as a real-time task in a consumer SoC. Despite the fact that many accelerators have been proposed for fast VOR, they remain isolated from a video decoder's inherent video compression knowledge. Therefore, in this paper, we propose a video decoder-assisted neural network acceleration framework for real-time video recognition. Firstly, given the fact that the non-key frames can be dynamically reconstructed by the key frames with high fidelity during video compression, we propose the VR-DANN algorithm that reconstructs the VOR results of non-key frames in a similar way so as to save a large amount of NN computing power. In VR-DANN, we leverage motion vectors, the tempo-spatial information already available in the video decoding process to facilitate the recognition process, and propose a lightweight NN-based refinement scheme to suppress the non-pixel recognition noise. Moreover, we consider that there is numerous redundant information in the video frames because the objects of interest usually take a small portion in a video frame. We, therefore, propose the object based acceleration algorithm~(Jigsaw-VOR) to avoid unnecessary computation by dropping out the redundant information in the frames before going through the computing-intensive DNN process. Concretely, we adopt the motion vectors to track the rough position for the objects of interest and then merge them into a consolidated frame for DNN processing like a jigsaw game. The acceleration comes from the processing of much fewer consolidated frames compared to the raw frames in a video stream. The VR-DANN and Jigsaw-VOR can be integrated for further speedup.
+
+Authors: **Zhuoran Song**, Heng Lu, Li Jiang, Naifeng Jing and Xiaoyao Liang.
+
+![e2sr](/assets/img/posts/real-frame.jpg)
+
+* Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2023, CCF-A)
+* [paper](https://ieeexplore.ieee.org/abstract/document/9931136)
+* [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:i2JpDOtfUwMJ:scholar.google.com/&output=citation&scisdr=Cm1sAW37EPrgrjn1M44:AGlGAw8AAAAAZJrzK47_RtAcHCZkuX7EDV8XbIY&scisig=AGlGAw8AAAAAZJrzKx07coBghy9GAB6rhbJ6Ci8&scisf=4&ct=citation&cd=-1&hl=zh-CN)

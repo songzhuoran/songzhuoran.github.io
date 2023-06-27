@@ -8,5 +8,5 @@ Authors: **Zhuoran Song**, Zhongkai Yu, Naifeng Jing and Xiaoyao Liang.
 ![e2sr](/assets/img/posts/e2sr.jpg)
 
 * Accepted by Design Automation Conference (DAC 2022, CCF-A)
-* [paper]()
-* [cite]()
+* [paper](https://dl.acm.org/doi/abs/10.1145/3489517.3530423)
+* [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:nUNm4YqWNI4J:scholar.google.com/&output=citation&scisdr=Cm1sAW37EPrgrjn0KqQ:AGlGAw8AAAAAZJryMqRTJQ-Oo_b_sTQEUjqKxjI&scisig=AGlGAw8AAAAAZJryMu16E-si0piOIq4-Op7Zc3c&scisf=4&ct=citation&cd=-1&hl=zh-CN)
