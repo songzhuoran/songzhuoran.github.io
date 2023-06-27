@@ -17,7 +17,7 @@ cover-img:
     - "assets/img/dog.jpg": "我的两只心肝宝贝 (2023-06)" 
     - "assets/img/germany.jpg": "德国，莱茵河 (2023-04)" 
     - "assets/img/cologne.jpg": "德国，科隆大教堂 (2023-04)" 
-    - "assets/img/cologne2.jpg": "德国，科隆大教堂 (2023-04)" 
+    - "assets/img/cologne2.jpg": "德国，亚琛 (2023-04)" 
     - "assets/img/Netherlands1.jpg": "荷兰，阿姆斯特丹 (2023-04)" 
     - "assets/img/Netherlands2.jpg": "荷兰，阿姆斯特丹 (2023-04)" 
     - "assets/img/Netherlands3.jpg": "荷兰，阿姆斯特丹 (2023-04)" 
