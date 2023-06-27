@@ -13,8 +13,14 @@ cover-img:
     - "assets/img/moshigongyuan.jpg": "四川，墨石公园 (2020-04)" 
     - "assets/img/daocheng.jpg": "四川，稻城，稻城亚丁 (2020-04)" 
     - "assets/img/italy.jpeg": "意大利，佛罗伦萨 (2019-10)" 
-    - "assets/img/italy.jpeg": "意大利，佛罗伦萨 (2020-10)" 
     - "assets/img/venice.jpeg": "意大利，威尼斯 (2020-10)" 
+    - "assets/img/dog.jpg": "我的两只心肝宝贝 (2023-06)" 
+    - "assets/img/germany.jpg": "德国，莱茵河 (2023-04)" 
+    - "assets/img/cologne.jpg": "德国，科隆大教堂 (2023-04)" 
+    - "assets/img/cologne2.jpg": "德国，科隆大教堂 (2023-04)" 
+    - "assets/img/Netherlands1.jpg": "荷兰，阿姆斯特丹 (2023-04)" 
+    - "assets/img/Netherlands2.jpg": "荷兰，阿姆斯特丹 (2023-04)" 
+    - "assets/img/Netherlands3.jpg": "荷兰，阿姆斯特丹 (2023-04)" 
 ---
 
 **Zhuoran Song**, Heng Lu, Gang Li, Li Jiang, Naifeng Jing and Xiaoyao Liang. PRADA: Point Cloud Recognition Acceleration via Dynamic Approximation. Accepted by Design, Automation and Test in Europe Conference (DATE 2023, CCF-B). <font color=red>Best Paper Award.</font>
