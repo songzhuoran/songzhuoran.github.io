@@ -1,3 +1,9 @@
+**如何提升论文的可读性？**
 
-Neural approximate computing gains enormous energy-efficiency at the cost of tolerable quality-loss. A neural approximator can map the input data to output while a classifier determines whether the input data are safe to approximate with quality guarantee. However, existing works cannot maximize the invocation of the approximator, resulting in limited speedup and energy saving. By exploring the mapping space of those target functions, in this paper, we observe a nonuniform distribution of the approximation error incurred by the same approximator. We thus propose a novel approximate computing architecture with a Multiclass-Classifier and Multiple Approximators (MCMA). These approximators have identica network topologies, and thus can share the same hardware resource in an neural processing unit(NPU) clip. In the runtime, MCMA can swap in the invoked approximator by merely shipping the synapse weights from the on-chip memory to the buffers near MAC within a cycle. We also propose efficient co-training methods for such MCMA architec- ture. Experimental results show a more substantial invocation of MCMA as well as the gain of energy-efficiency.
+* 提高语句间的逻辑性
+1.谨慎/巧妙地使用连接词
 
+
+* 提高论文的“防御能力”
+* “迷惑”reviewer的时间观
+* 在适当的地方提高论文的知识密度
