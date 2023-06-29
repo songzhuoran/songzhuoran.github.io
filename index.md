@@ -23,6 +23,8 @@ cover-img:
     - "assets/img/Netherlands3.jpg": "荷兰，阿姆斯特丹 (2023-04)" 
 ---
 
+Xiaolong Lin, Gang Li, Zizhao Liu, Yadong Liu, Fan Zhang, **Zhuoran Song**, Naifeng Jing, and Xiaoyao Liang. AdaS: A Fast and Energy-Efficient CNN Accelerator Exploiting Bit-Sparsity. Accepted by Design Automation Conference (DAC 2023, CCF-A).
+
 **Zhuoran Song**, Heng Lu, Gang Li, Li Jiang, Naifeng Jing and Xiaoyao Liang. PRADA: Point Cloud Recognition Acceleration via Dynamic Approximation. Accepted by Design, Automation and Test in Europe Conference (DATE 2023, CCF-B). <font color=red>Best Paper Award.</font>
 
 **Zhuoran Song**, Heng Lu, Li Jiang, Naifeng Jing and Xiaoyao Liang. Real-Time Video Recognition via Decoder-Assisted Neural Network Acceleration Framework. Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2022, CCF-A). [[paper]](https://ieeexplore.ieee.org/abstract/document/9931136) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:i2JpDOtfUwMJ:scholar.google.com/&output=citation&scisdr=CgXm6iV2EMP-nuasMH0:AAGBfm0AAAAAY3yqKH3xguN_rteeGSIfIXkcvrZTyNxb&scisig=AAGBfm0AAAAAY3yqKFSDS0jLe5NSjx30gbFPkKawDKjC&scisf=4&ct=citation&cd=-1&hl=zh-CN)
