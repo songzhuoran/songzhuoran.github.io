@@ -23,6 +23,17 @@ cover-img:
     - "assets/img/Netherlands3.jpg": "荷兰，阿姆斯特丹 (2023-04)" 
 ---
 
+Chunyu Qi, Zilong Li, **Zhuoran Song\*** and Xiaoyao Liang. ViTframe: Vision Transformer Acceleration via Informative Frame Selection for Video Recognition. Accepted by 40th IEEE International Conference on Computer Design (ICCD 2023, CCF-B).
+
+Xuhang Wang, **Zhuoran Song\*** and Xiaoyao Liang. RealArch: A Real-Time Scheduler for Mapping Multi-Tenant DNNs on Multi-Core Accelerators. Accepted by 40th IEEE International Conference on Computer Design (ICCD 2023, CCF-B).
+
+
+Xuan Zhang, **Zhuoran Song\***, Xing Li, Zhezhi He, Li Jiang, Naifeng Jing and Xiaoyao Liang. HyAcc: A Hybrid CAM-MAC RRAM-based Accelerator for Recommendation Model. Accepted by 40th IEEE International Conference on Computer Design (ICCD 2023, CCF-B).
+
+
+Xuhang Wang, **Zhuoran Song\***, Qiyue Huang and Xiaoyao Liang. DEQ: Dynamic Element-wise Quantization for Efficient Attention Architecture. Accepted by 40th IEEE International Conference on Computer Design (ICCD 2023, CCF-B).
+
+
 Xiaolong Lin, Gang Li, Zizhao Liu, Yadong Liu, Fan Zhang, **Zhuoran Song**, Naifeng Jing, and Xiaoyao Liang. AdaS: A Fast and Energy-Efficient CNN Accelerator Exploiting Bit-Sparsity. Accepted by Design Automation Conference (DAC 2023, CCF-A).
 
 **Zhuoran Song**, Heng Lu, Gang Li, Li Jiang, Naifeng Jing and Xiaoyao Liang. PRADA: Point Cloud Recognition Acceleration via Dynamic Approximation. Accepted by Design, Automation and Test in Europe Conference (DATE 2023, CCF-B). <font color=red>Best Paper Award.</font>
