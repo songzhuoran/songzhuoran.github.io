@@ -4,6 +4,8 @@ title: News
 comments: true
 ---
 
+* 2023.08. We have four papers being accepted by ICCD. Congratulations to Chunqu, Xuhang, and Xuan.
+
 * 2023.06. My student Zilong Li has received Outstanding Bachelor's Thesis Award from School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University [[link]](https://www.cs.sjtu.edu.cn/NewNoticeDetail.aspx?id=530). Congratulations to Zilong.
 
 * 2023.03. Our paper "PRADA: Point Cloud Recognition Acceleration via Dynamic Approximation" has received Best Paper Award from DATE 2023.
