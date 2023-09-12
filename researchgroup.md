@@ -5,25 +5,24 @@ comments: true
 ---
 
 ## PhD
+* Houshu He (co-supervised, 2023-)
 * Xuhang Wang (co-supervised, 2020-)
 * Xueyuann Liu (co-supervised, 2020-)
 * Xuan Zhang (co-supervised, 2019-)
 
 ## Master
+* Yuanzheng Yao (Supervised, 2023-)
 * Chunyu Qi (co-supervised, 2022-)
 * Jiabei Long (co-supervised, 2022-)
 
 ## Undergraduate
-* Xinhe Wang (2022-)
-* Tiancheng Zhang (2022-)
-* Keye Chen (2022-)
-* Zhitong Wang (2022-)
 * Yifan Jia (2022-)
-* Zhuoheng Li (2022-)
 * Qi'ao Liu (2022-)
 
 
 ## Alumni
+* Zhuoheng Li (2023, University of Michigan)
+* Zhitong Tang (2023, University of Michigan)
 * Zilong Li (2023, Shanghai Jiao Tong University)
 * MingZhong Guo (2023, Stanford University)
 * Ruiqi Lai (2023, Nanyang Technological University)
