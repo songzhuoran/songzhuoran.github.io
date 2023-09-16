@@ -40,4 +40,6 @@ comments: true
 
 **2023. CS433. Parallel and Distributed Computing.**
 
-To be done.
+1. Introduction [[ppt]](https://github.com/songzhuoran/songzhuoran.github.io/tree/master/docs/ppt-files/2-L1.pdf)
+
+2. Basic Architecture of CPU [[ppt]](https://github.com/songzhuoran/songzhuoran.github.io/tree/master/docs/ppt-files/2-L2.pdf)
