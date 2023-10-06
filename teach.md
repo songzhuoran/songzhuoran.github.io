@@ -43,3 +43,6 @@ comments: true
 1. Introduction [[ppt]](https://github.com/songzhuoran/songzhuoran.github.io/tree/master/docs/ppt-files/2-L1.pdf)
 
 2. Basic Architecture of CPU [[ppt]](https://github.com/songzhuoran/songzhuoran.github.io/tree/master/docs/ppt-files/2-L2.pdf)
+
+3. OpenMP [[ppt1]](https://github.com/songzhuoran/songzhuoran.github.io/tree/master/docs/ppt-files/2-L3.pdf) [[ppt2]](https://github.com/songzhuoran/songzhuoran.github.io/tree/master/docs/ppt-files/2-L4.pdf)
+

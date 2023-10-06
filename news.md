@@ -4,6 +4,8 @@ title: News
 comments: true
 ---
 
+* 2023.10. Our paper "A Point Cloud Video Recognition Acceleration Framework Based on Tempo-Spatial Information" has been accepted by TPDS.
+
 * 2023.08. We have four papers being accepted by ICCD. Congratulations to Chunqu, Xuhang, and Xuan.
 
 * 2023.06. My student Zilong Li has received Outstanding Bachelor's Thesis Award from School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University [[link]](https://www.cs.sjtu.edu.cn/NewNoticeDetail.aspx?id=530). Congratulations to Zilong.
