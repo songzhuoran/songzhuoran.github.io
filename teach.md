@@ -38,7 +38,7 @@ comments: true
 
 16. Summary [[ppt]](https://github.com/songzhuoran/songzhuoran.github.io/tree/master/docs/ppt-files/L13.pdf)
 
-**2023. CS433. Parallel and Distributed Computing.**
+**2023. CS4302-01. Parallel and Distributed Computing.**
 
 1. Introduction [[ppt]](https://github.com/songzhuoran/songzhuoran.github.io/tree/master/docs/ppt-files/2-L1.pdf)
 
