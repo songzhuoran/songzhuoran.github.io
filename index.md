@@ -28,9 +28,9 @@ cover-img:
     - "assets/img/Netherlands3.jpg": "荷兰，阿姆斯特丹 (2023-04)" 
 ---
 
-**Zhuoran Song**, Wanzhen Liu, Tao Yang, Fangxin Liu, Naifeng Jing, and Xiaoyao Liang. SPARK: Scalable and Precision-Aware Acceleration of Neural Networks via Efficient Encoding. Accepted by IEEE Transactions on Parallel and Distributed Systems (TPDS 2023, CCF-A).
+Fangxin Liu, Ning Yang, Haomin Li, Zongwu Wang, **Zhuoran Song**, Songwen Pei, Li Jiang. A Point Cloud Video Recognition Acceleration Framework Based on Tempo-Spatial Information. Accepted by High Performance Computer Architecture (HPCA 2024, CCF-A).
 
-Fangxin Liu, Ning Yang, Haomin Li, Zongwu Wang, **Zhuoran Song**, Songwen Pei, Li Jiang. A Point Cloud Video Recognition Acceleration Framework Based on Tempo-Spatial Information. Accepted by High Performance Computer Architecture (HPCA 2023, CCF-A).
+**Zhuoran Song**, Wanzhen Liu, Tao Yang, Fangxin Liu, Naifeng Jing, and Xiaoyao Liang. SPARK: Scalable and Precision-Aware Acceleration of Neural Networks via Efficient Encoding. Accepted by IEEE Transactions on Parallel and Distributed Systems (TPDS 2023, CCF-A).
 
 Chunyu Qi, Zilong Li, **Zhuoran Song\*** and Xiaoyao Liang. ViTframe: Vision Transformer Acceleration via Informative Frame Selection for Video Recognition. Accepted by 40th IEEE International Conference on Computer Design (ICCD 2023, CCF-B).
 
