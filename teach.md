@@ -46,3 +46,14 @@ comments: true
 
 3. OpenMP [[ppt1]](https://github.com/songzhuoran/songzhuoran.github.io/tree/master/docs/ppt-files/2-L3.pdf) [[ppt2]](https://github.com/songzhuoran/songzhuoran.github.io/tree/master/docs/ppt-files/2-L4.pdf)
 
+4. GPGPU Architecture [[ppt]](https://github.com/songzhuoran/songzhuoran.github.io/tree/master/docs/ppt-files/2-L5.pdf)
+
+5. GPU Graphic [[ppt]](https://github.com/songzhuoran/songzhuoran.github.io/tree/master/docs/ppt-files/2-L6.pdf)
+
+6. CUDA [[ppt1]](https://github.com/songzhuoran/songzhuoran.github.io/tree/master/docs/ppt-files/2-L7.pdf) [[ppt2]](https://github.com/songzhuoran/songzhuoran.github.io/tree/master/docs/ppt-files/2-L87.pdf) [[ppt3]](https://github.com/songzhuoran/songzhuoran.github.io/tree/master/docs/ppt-files/2-L97.pdf) [[ppt4]](https://github.com/songzhuoran/songzhuoran.github.io/tree/master/docs/ppt-files/2-L107.pdf)
+
+7. NPU [[ppt]](https://github.com/songzhuoran/songzhuoran.github.io/tree/master/docs/ppt-files/2-L11.pdf)
+
+8. Efficient DNN Processing [[ppt]](https://github.com/songzhuoran/songzhuoran.github.io/tree/master/docs/ppt-files/2-L12.pdf)
+
+
