@@ -27,7 +27,11 @@ cover-img:
     - "assets/img/Netherlands2.jpg": "荷兰，阿姆斯特丹 (2023-04)" 
     - "assets/img/Netherlands3.jpg": "荷兰，阿姆斯特丹 (2023-04)" 
 ---
+**Zhuoran Song**, Chunyu Qi, Fangxin Liu, Naifeng Jing, and Xiaoyao Liang. CMC: Video Transformer Acceleration via CODEC Assisted Matrix Condensing. Accepted by ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2024, CCF-A).
 
+Xueyuan Liu, **Zhuoran Song***, Guohao Dai, Gang Li, Can Xiao, Yan Xiang, Dehui Kong, Ke Xu and Xiaoyao Liang. FusionArch: A Fusion-Based Accelerator for Point-Based Point Cloud Neural Networks. Accepted by Design, Automation, and Test in Europe (DATE 2024, CCF-B).
+
+Xueyuan Liu, **Zhuoran Song***, Xiang Liao, Xing Li, Tao Yang, Fangxin Liu and Xiaoyao Liang. Sava: A Spatial- and Value-Aware Accelerator for Point Cloud Transformers. Accepted by Design, Automation, and Test in Europe (DATE 2024, CCF-B).
 
 Fangxin Liu, Ning Yang, Haomin Li, Zongwu Wang, **Zhuoran Song**, Songwen Pei, Li Jiang. SPARK: Scalable and Precision-Aware Acceleration of Neural Networks via Efficient Encoding. Accepted by High Performance Computer Architecture (HPCA 2024, CCF-A).
 

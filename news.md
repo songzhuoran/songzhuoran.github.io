@@ -3,6 +3,9 @@ layout: page
 title: News
 comments: true
 ---
+* 2023.11. We have two papers being accepted by DATE. Congratulations to Xueyuan.
+
+* 2023.11. Our paper "CMC: Video Transformer Acceleration via CODEC Assisted Matrix Condensing" has been accepted by ASPLOS.
 
 * 2023.10. Our paper "A Point Cloud Video Recognition Acceleration Framework Based on Tempo-Spatial Information" has been accepted by TPDS.
 
