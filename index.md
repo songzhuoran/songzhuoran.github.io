@@ -29,7 +29,7 @@ cover-img:
 ---
 **Zhuoran Song**, Chunyu Qi, Fangxin Liu, Naifeng Jing, and Xiaoyao Liang. CMC: Video Transformer Acceleration via CODEC Assisted Matrix Condensing. Accepted by ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2024, CCF-A).
 
-Xueyuan Liu, **Zhuoran Song***, Guohao Dai, Gang Li, Can Xiao, Yan Xiang, Dehui Kong, Ke Xu and Xiaoyao Liang. FusionArch: A Fusion-Based Accelerator for Point-Based Point Cloud Neural Networks. Accepted by Design, Automation, and Test in Europe (DATE 2024, CCF-B).
+Xueyuan Liu, **Zhuoran Song***, Guohao Dai, Gang Li, Can Xiao, Yan Xiang, Dehui Kong, Ke Xu and Xiaoyao Liang. FusionArch: A Fusion-Based Accelerator for Point-Based Point Cloud Neural Networks. Accepted by Design, Automation, and Test in Europe (DATE 2024, CCF-B). <font color=red>Best Paper Nomination.</font>
 
 Xueyuan Liu, **Zhuoran Song***, Xiang Liao, Xing Li, Tao Yang, Fangxin Liu and Xiaoyao Liang. Sava: A Spatial- and Value-Aware Accelerator for Point Cloud Transformers. Accepted by Design, Automation, and Test in Europe (DATE 2024, CCF-B).
 
