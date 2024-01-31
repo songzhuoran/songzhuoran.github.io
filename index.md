@@ -14,12 +14,6 @@ cover-img:
     - "assets/img/daocheng.jpg": "四川，稻城，稻城亚丁 (2020-04)" 
     - "assets/img/italy.jpeg": "意大利，佛罗伦萨 (2019-10)" 
     - "assets/img/venice.jpeg": "意大利，威尼斯 (2020-10)" 
-    - "assets/img/dog.jpg": "citywalk (2023-08)" 
-    - "assets/img/dog2.jpg": "citywalk (2023-09)" 
-    - "assets/img/dog3.jpg": "citywalk (2023-09)"
-    - "assets/img/dog4.jpg": "我的两只心肝宝贝 (2023-07)" 
-    - "assets/img/dog5.jpg": "我的两只心肝宝贝 (2023-07)" 
-    - "assets/img/dog6.jpg": "我的两只心肝宝贝 (2023-07)" 
     - "assets/img/germany.jpg": "德国，莱茵河 (2023-04)" 
     - "assets/img/cologne.jpg": "德国，科隆大教堂 (2023-04)" 
     - "assets/img/cologne2.jpg": "德国，亚琛 (2023-04)" 
@@ -35,22 +29,22 @@ Xueyuan Liu, **Zhuoran Song***, Xiang Liao, Xing Li, Tao Yang, Fangxin Liu and X
 
 Fangxin Liu, Ning Yang, Haomin Li, Zongwu Wang, **Zhuoran Song**, Songwen Pei, Li Jiang. SPARK: Scalable and Precision-Aware Acceleration of Neural Networks via Efficient Encoding. Accepted by High Performance Computer Architecture (HPCA 2024, CCF-A).
 
-**Zhuoran Song**, Wanzhen Liu, Tao Yang, Fangxin Liu, Naifeng Jing, and Xiaoyao Liang. A Point Cloud Video Recognition Acceleration Framework Based on Tempo-Spatial Information. Accepted by IEEE Transactions on Parallel and Distributed Systems (TPDS 2023, CCF-A).
+**Zhuoran Song**, Wanzhen Liu, Tao Yang, Fangxin Liu, Naifeng Jing, and Xiaoyao Liang. A Point Cloud Video Recognition Acceleration Framework Based on Tempo-Spatial Information. Accepted by IEEE Transactions on Parallel and Distributed Systems (TPDS 2023, CCF-A). [[paper]](https://ieeexplore.ieee.org/abstract/document/10285363) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:iE7OrKTcILoJ:scholar.google.com/&output=citation&scisdr=ClF7r7gPEJmf6RP00Jg:AFWwaeYAAAAAZbnyyJjDySbb0FzYBy_kMuclnEg&scisig=AFWwaeYAAAAAZbnyyEDsB13QALjp53-cbRzhTE8&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
-Chunyu Qi, Zilong Li, **Zhuoran Song\*** and Xiaoyao Liang. ViTframe: Vision Transformer Acceleration via Informative Frame Selection for Video Recognition. Accepted by 40th IEEE International Conference on Computer Design (ICCD 2023, CCF-B).
+Chunyu Qi, Zilong Li, **Zhuoran Song\*** and Xiaoyao Liang. ViTframe: Vision Transformer Acceleration via Informative Frame Selection for Video Recognition. Accepted by 40th IEEE International Conference on Computer Design (ICCD 2023, CCF-B). [[paper]](https://ieeexplore.ieee.org/abstract/document/10361019) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:Ijo6lQSvYokJ:scholar.google.com/&output=citation&scisdr=ClF7r7gPEJmf6RP0hGU:AFWwaeYAAAAAZbnynGUAZycQOBbAULU9wfDUF5A&scisig=AFWwaeYAAAAAZbnynKi2_2X9q-YSD0jzdHNqgA4&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
-Xuhang Wang, **Zhuoran Song\*** and Xiaoyao Liang. RealArch: A Real-Time Scheduler for Mapping Multi-Tenant DNNs on Multi-Core Accelerators. Accepted by 40th IEEE International Conference on Computer Design (ICCD 2023, CCF-B).
-
-
-Xuan Zhang, **Zhuoran Song\***, Xing Li, Zhezhi He, Li Jiang, Naifeng Jing and Xiaoyao Liang. HyAcc: A Hybrid CAM-MAC RRAM-based Accelerator for Recommendation Model. Accepted by 40th IEEE International Conference on Computer Design (ICCD 2023, CCF-B).
+Xuhang Wang, **Zhuoran Song\*** and Xiaoyao Liang. RealArch: A Real-Time Scheduler for Mapping Multi-Tenant DNNs on Multi-Core Accelerators. Accepted by 40th IEEE International Conference on Computer Design (ICCD 2023, CCF-B). [[paper]](https://ieeexplore.ieee.org/abstract/document/10360967) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:TXUzejwxHVMJ:scholar.google.com/&output=citation&scisdr=ClF7r7gPEJmf6RP0Y9Y:AFWwaeYAAAAAZbnye9ZfqNt3UlyxVDE-n3tOZUY&scisig=AFWwaeYAAAAAZbnye3_FZ3-qrtMIJIJo4N_kCG8&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
 
-Xuhang Wang, **Zhuoran Song\***, Qiyue Huang and Xiaoyao Liang. DEQ: Dynamic Element-wise Quantization for Efficient Attention Architecture. Accepted by 40th IEEE International Conference on Computer Design (ICCD 2023, CCF-B).
+Xuan Zhang, **Zhuoran Song\***, Xing Li, Zhezhi He, Li Jiang, Naifeng Jing and Xiaoyao Liang. HyAcc: A Hybrid CAM-MAC RRAM-based Accelerator for Recommendation Model. Accepted by 40th IEEE International Conference on Computer Design (ICCD 2023, CCF-B). [[paper]](https://ieeexplore.ieee.org/abstract/document/10360990) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:0W2VVsrJgsoJ:scholar.google.com/&output=citation&scisdr=ClF7r7gPEJmf6RP0JcE:AFWwaeYAAAAAZbnyPcFcwu6kowPuUTOQK698SD4&scisig=AFWwaeYAAAAAZbnyPc7G-sDS_9poRcr3C7rrQ_g&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
 
-Xiaolong Lin, Gang Li, Zizhao Liu, Yadong Liu, Fan Zhang, **Zhuoran Song**, Naifeng Jing, and Xiaoyao Liang. AdaS: A Fast and Energy-Efficient CNN Accelerator Exploiting Bit-Sparsity. Accepted by Design Automation Conference (DAC 2023, CCF-A).
+Xuhang Wang, **Zhuoran Song\***, Qiyue Huang and Xiaoyao Liang. DEQ: Dynamic Element-wise Quantization for Efficient Attention Architecture. Accepted by 40th IEEE International Conference on Computer Design (ICCD 2023, CCF-B). [[paper]](https://ieeexplore.ieee.org/abstract/document/10360988) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:Vcjd8XxjSo8J:scholar.google.com/&output=citation&scisdr=ClF7r7gPEJmf6RP0Ca4:AFWwaeYAAAAAZbnyEa6SjAM2Sh8n_qlG8ivsY3Q&scisig=AFWwaeYAAAAAZbnyEajeh45nlZLbMH3Xcc3V4Yc&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
-**Zhuoran Song**, Heng Lu, Gang Li, Li Jiang, Naifeng Jing and Xiaoyao Liang. PRADA: Point Cloud Recognition Acceleration via Dynamic Approximation. Accepted by Design, Automation and Test in Europe Conference (DATE 2023, CCF-B). <font color=red>Best Paper Award.</font>
+
+Xiaolong Lin, Gang Li, Zizhao Liu, Yadong Liu, Fan Zhang, **Zhuoran Song**, Naifeng Jing, and Xiaoyao Liang. AdaS: A Fast and Energy-Efficient CNN Accelerator Exploiting Bit-Sparsity. Accepted by Design Automation Conference (DAC 2023, CCF-A). [[paper]](https://ieeexplore.ieee.org/abstract/document/10247662) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:JzNlYQht-1kJ:scholar.google.com/&output=citation&scisdr=ClF7r7gPEJmf6RP30l8:AFWwaeYAAAAAZbnxyl_rvO3H6W2-S1MOGH6Z4p4&scisig=AFWwaeYAAAAAZbnxyoU6id9Y3OCMknIDuejQYvs&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+
+**Zhuoran Song**, Heng Lu, Gang Li, Li Jiang, Naifeng Jing and Xiaoyao Liang. PRADA: Point Cloud Recognition Acceleration via Dynamic Approximation. Accepted by Design, Automation and Test in Europe Conference (DATE 2023, CCF-B). <font color=red>Best Paper Award.</font> [[paper]](https://ieeexplore.ieee.org/abstract/document/10137301) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:e5TIE3maDZcJ:scholar.google.com/&output=citation&scisdr=ClF7r7gPEJmf6RP3hfY:AFWwaeYAAAAAZbnxnfZ5TswvL6uHYMQmyZeHA-g&scisig=AFWwaeYAAAAAZbnxnfhuvue-N_i4Fj29-9FyFeQ&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
 **Zhuoran Song**, Heng Lu, Li Jiang, Naifeng Jing and Xiaoyao Liang. Real-Time Video Recognition via Decoder-Assisted Neural Network Acceleration Framework. Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2022, CCF-A). [[paper]](https://ieeexplore.ieee.org/abstract/document/9931136) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:i2JpDOtfUwMJ:scholar.google.com/&output=citation&scisdr=CgXm6iV2EMP-nuasMH0:AAGBfm0AAAAAY3yqKH3xguN_rteeGSIfIXkcvrZTyNxb&scisig=AAGBfm0AAAAAY3yqKFSDS0jLe5NSjx30gbFPkKawDKjC&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
