@@ -21,6 +21,11 @@ cover-img:
     - "assets/img/Netherlands2.jpg": "荷兰，阿姆斯特丹 (2023-04)" 
     - "assets/img/Netherlands3.jpg": "荷兰，阿姆斯特丹 (2023-04)" 
 ---
+
+Remark: * indicates correspondence.
+
+Remark: = indicates equal contribution.
+
 **Zhuoran Song**, Chunyu Qi, Fangxin Liu, Naifeng Jing, and Xiaoyao Liang. CMC: Video Transformer Acceleration via CODEC Assisted Matrix Condensing. Accepted by ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2024, CCF-A).
 
 Xueyuan Liu, **Zhuoran Song***, Guohao Dai, Gang Li, Can Xiao, Yan Xiang, Dehui Kong, Ke Xu and Xiaoyao Liang. FusionArch: A Fusion-Based Accelerator for Point-Based Point Cloud Neural Networks. Accepted by Design, Automation, and Test in Europe (DATE 2024, CCF-B). <font color=red>Best Paper Nomination.</font>
@@ -71,7 +76,7 @@ Tao Yang, Dongyue Li, **Zhuoran Song**, Yilong Zhao, Fangxin Liu, Zongwu Wang, Z
 
 Feiyang Wu, **Zhuoran Song**, Jing Ke, Li Jiang, Naifeng Jing and Xiaoyao Liang. PIPArch: Programmable Image Processing Architecture Using Sliding Array. Accepted by 2021 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA 2022, CCF-C). [[paper]](https://ieeexplore.ieee.org/abstract/document/9644888/) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:gYcee5FhPCUJ:scholar.google.com/&output=citation&scisdr=CgVK0WDnEPjT2KLplys:AAGBfm0AAAAAYjPvjystlhPn7uSHaGjSe30xRxIn3WYV&scisig=AAGBfm0AAAAAYjPvj36vXmywTB5v5eiQQNRBfhivNfsC&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
-**Zhuoran Song\***, Dongyue Li\*, Zhezhi He, Xiaoyao Liang and Li Jiang. ReRAM-Sharing: Fine-Grained Weight Sharing for ReRAM-Based Deep Neural Network Accelerator. Accepted by IEEE International Symposium on Circuits and Systems (ISCAS 2021, CCF-C). [[paper]](https://ieeexplore.ieee.org/abstract/document/9401155) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:DnjWBzavqeUJ:scholar.google.com/&output=citation&scisdr=CgVK0WDnEPjT2KLpzkM:AAGBfm0AAAAAYjPv1kOkFzdY9w5lYwiG8AiZsp0J2oyf&scisig=AAGBfm0AAAAAYjPv1nguDzdZXOj5ULfbnA4zhxYqaQZg&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+**Zhuoran Song=**, Dongyue Li=, Zhezhi He, Xiaoyao Liang and Li Jiang. ReRAM-Sharing: Fine-Grained Weight Sharing for ReRAM-Based Deep Neural Network Accelerator. Accepted by IEEE International Symposium on Circuits and Systems (ISCAS 2021, CCF-C). [[paper]](https://ieeexplore.ieee.org/abstract/document/9401155) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:DnjWBzavqeUJ:scholar.google.com/&output=citation&scisdr=CgVK0WDnEPjT2KLpzkM:AAGBfm0AAAAAYjPv1kOkFzdY9w5lYwiG8AiZsp0J2oyf&scisig=AAGBfm0AAAAAYjPv1nguDzdZXOj5ULfbnA4zhxYqaQZg&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
 **Zhuoran Song**, Feiyang Wu, Xueyuan Liu, Naifeng Jing and Xiaoyao Liang. VR-DANN: Real-Time Video Recognition via Decoder-Assisted Neural Network Acceleration. Accepted by IEEE/ACM International Symposium on Microarchitecture (MICRO 2020, CCF-A). [[paper]](https://ieeexplore.ieee.org/abstract/document/9251974/) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:eEP0G0kRLzAJ:scholar.google.com/&output=citation&scisdr=CgVK0WDnEPjT2KLp4yQ:AAGBfm0AAAAAYjPv-yThRhi1D_Otznbp5q72vJzvvgHE&scisig=AAGBfm0AAAAAYjPv-ws5nz5klawkfFyMhND6yTl4u9Y0&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
@@ -85,7 +90,7 @@ Zhaoming Jiang, **Zhuoran Song**, Naifeng Jing and Xiaoyao Liang. PRArch: Patter
 
 **Zhuoran Song**, Dongyu Ru, Ru Wang, Hongru Huang, Zhenghao Peng, Jing Ke, Xiaoyao Liang, and Li Jiang. Approximate Random Dropout for DNN training acceleration in GPGPU. Accepted by ACM/IEEE Design Automation & Test in Europe Conference and Exhibition (DATE 2019, CCF-B). [[paper]](https://ieeexplore.ieee.org/abstract/document/8715135/) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:LWUg_SD3c-0J:scholar.google.com/&output=citation&scisdr=CgVK0WDnEPjT2KL3HDc:AAGBfm0AAAAAYjPxBDebblJef0T-nyvGHGvIAGpg80Uf&scisig=AAGBfm0AAAAAYjPxBGG6-i67_3eSgPibNcRExYMRYd7v&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
-Li Jiang\*, **Zhuoran Song\***, Song H, et al. Energy-Efficient and Quality-Assured Approximate Computing Framework Using a Co-Training Method[J]. ACM Transactions on Design Automation of Electronic Systems (TODAES 2019, CCF-B). [[paper]](https://dl.acm.org/doi/abs/10.1145/3342239) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:XNS89O1SUe4J:scholar.google.com/&output=citation&scisdr=CgVK0WDnEPjT2KL3NNg:AAGBfm0AAAAAYjPxLNgalfu3-r0SG_K48XOYglmRqv40&scisig=AAGBfm0AAAAAYjPxLDb2n-4B9X1xvO6pxsBGzeJr3fXx&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+**Zhuoran Song=**, Li Jiang=, Song H, et al. Energy-Efficient and Quality-Assured Approximate Computing Framework Using a Co-Training Method[J]. ACM Transactions on Design Automation of Electronic Systems (TODAES 2019, CCF-B). [[paper]](https://dl.acm.org/doi/abs/10.1145/3342239) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:XNS89O1SUe4J:scholar.google.com/&output=citation&scisdr=CgVK0WDnEPjT2KL3NNg:AAGBfm0AAAAAYjPxLNgalfu3-r0SG_K48XOYglmRqv40&scisig=AAGBfm0AAAAAYjPxLDb2n-4B9X1xvO6pxsBGzeJr3fXx&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
 **Zhuoran Song**, Yilong Zhao, Yanan Sun, Xiaoyao Liang and Li Jiang. ESNreram: An Energy-Efficient Sparse Neural Network Based on Resistive Random-Access Memory. Accepted by ACM/IEEE Accepted by ACM/IEEE (GLSVLSI 2020, CCF-C). [[paper]](https://dl.acm.org/doi/abs/10.1145/3386263.3406897) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:XpHr1d7jUUwJ:scholar.google.com/&output=citation&scisdr=CgVK0WDnEPjT2KL3SfM:AAGBfm0AAAAAYjPxUfO8BxtCttBR9HZ9V4EuRwq0Cq83&scisig=AAGBfm0AAAAAYjPxUXAoLzgHZZLeMf8_8O-U5Ddh4N0X&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
