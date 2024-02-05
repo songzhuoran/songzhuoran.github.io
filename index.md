@@ -26,6 +26,8 @@ Remark: * indicates correspondence.
 
 Remark: = indicates equal contribution.
 
+# 2024
+
 **Zhuoran Song**, Chunyu Qi, Fangxin Liu, Naifeng Jing, and Xiaoyao Liang. CMC: Video Transformer Acceleration via CODEC Assisted Matrix Condensing. Accepted by ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2024, CCF-A).
 
 Xueyuan Liu, **Zhuoran Song***, Guohao Dai, Gang Li, Can Xiao, Yan Xiang, Dehui Kong, Ke Xu and Xiaoyao Liang. FusionArch: A Fusion-Based Accelerator for Point-Based Point Cloud Neural Networks. Accepted by Design, Automation, and Test in Europe (DATE 2024, CCF-B). <font color=red>Best Paper Nomination.</font>
@@ -33,6 +35,8 @@ Xueyuan Liu, **Zhuoran Song***, Guohao Dai, Gang Li, Can Xiao, Yan Xiang, Dehui 
 Xueyuan Liu, **Zhuoran Song***, Xiang Liao, Xing Li, Tao Yang, Fangxin Liu and Xiaoyao Liang. Sava: A Spatial- and Value-Aware Accelerator for Point Cloud Transformers. Accepted by Design, Automation, and Test in Europe (DATE 2024, CCF-B).
 
 Fangxin Liu, Ning Yang, Haomin Li, Zongwu Wang, **Zhuoran Song**, Songwen Pei, Li Jiang. SPARK: Scalable and Precision-Aware Acceleration of Neural Networks via Efficient Encoding. Accepted by High Performance Computer Architecture (HPCA 2024, CCF-A).
+
+# 2023
 
 **Zhuoran Song**, Wanzhen Liu, Tao Yang, Fangxin Liu, Naifeng Jing, and Xiaoyao Liang. A Point Cloud Video Recognition Acceleration Framework Based on Tempo-Spatial Information. Accepted by IEEE Transactions on Parallel and Distributed Systems (TPDS 2023, CCF-A). [[paper]](https://ieeexplore.ieee.org/abstract/document/10285363) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:iE7OrKTcILoJ:scholar.google.com/&output=citation&scisdr=ClF7r7gPEJmf6RP00Jg:AFWwaeYAAAAAZbnyyJjDySbb0FzYBy_kMuclnEg&scisig=AFWwaeYAAAAAZbnyyEDsB13QALjp53-cbRzhTE8&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
@@ -50,6 +54,8 @@ Xuhang Wang, **Zhuoran Song\***, Qiyue Huang and Xiaoyao Liang. DEQ: Dynamic Ele
 Xiaolong Lin, Gang Li, Zizhao Liu, Yadong Liu, Fan Zhang, **Zhuoran Song**, Naifeng Jing, and Xiaoyao Liang. AdaS: A Fast and Energy-Efficient CNN Accelerator Exploiting Bit-Sparsity. Accepted by Design Automation Conference (DAC 2023, CCF-A). [[paper]](https://ieeexplore.ieee.org/abstract/document/10247662) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:JzNlYQht-1kJ:scholar.google.com/&output=citation&scisdr=ClF7r7gPEJmf6RP30l8:AFWwaeYAAAAAZbnxyl_rvO3H6W2-S1MOGH6Z4p4&scisig=AFWwaeYAAAAAZbnxyoU6id9Y3OCMknIDuejQYvs&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
 **Zhuoran Song**, Heng Lu, Gang Li, Li Jiang, Naifeng Jing and Xiaoyao Liang. PRADA: Point Cloud Recognition Acceleration via Dynamic Approximation. Accepted by Design, Automation and Test in Europe Conference (DATE 2023, CCF-B). <font color=red>Best Paper Award.</font> [[paper]](https://ieeexplore.ieee.org/abstract/document/10137301) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:e5TIE3maDZcJ:scholar.google.com/&output=citation&scisdr=ClF7r7gPEJmf6RP3hfY:AFWwaeYAAAAAZbnxnfZ5TswvL6uHYMQmyZeHA-g&scisig=AFWwaeYAAAAAZbnxnfhuvue-N_i4Fj29-9FyFeQ&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+
+# 2022
 
 **Zhuoran Song**, Heng Lu, Li Jiang, Naifeng Jing and Xiaoyao Liang. Real-Time Video Recognition via Decoder-Assisted Neural Network Acceleration Framework. Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2022, CCF-A). [[paper]](https://ieeexplore.ieee.org/abstract/document/9931136) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:i2JpDOtfUwMJ:scholar.google.com/&output=citation&scisdr=CgXm6iV2EMP-nuasMH0:AAGBfm0AAAAAY3yqKH3xguN_rteeGSIfIXkcvrZTyNxb&scisig=AAGBfm0AAAAAY3yqKFSDS0jLe5NSjx30gbFPkKawDKjC&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
@@ -72,11 +78,15 @@ Tao Yang, Dongyue Li, Fei Ma, **Zhuoran Song**, Yilong Zhao, Jiaxi Zhang, Fangxi
 Tao Yang, Dongyue Li, **Zhuoran Song**, Yilong Zhao, Fangxin Liu, Zongwu Wang, Zhezhi He and Li Jiang. DTQAtten: Leveraging Dynamic Token-based Quantization for Efficient Attention Architecture. Accepted by ACM/IEEE Design Automation & Test in Europe Conference and Exhibition (DATE 2022, CCF-B). <font color=red>Best Paper Nomination.</font> [[paper]](https://ieeexplore.ieee.org/abstract/document/9774692?casa_token=m0WaJCm4n2EAAAAA:FUrocXy3iyKccFWMntfMEENxdo1u0Oa9xvl8YKwRN-CiT3VFsqsG9j5miTYEp_EvN3EBjoqjKxs) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:lpH99EKHsaMJ:scholar.google.com/&output=citation&scisdr=CgXm6iV2EMP-niWT-8g:AAGBfm0AAAAAY7-V48i4O6V8Yf3HXuzuhmtdJq3Fqsf5&scisig=AAGBfm0AAAAAY7-V4yD1e49mKtSWkXlU5_lhHY7ysXUU&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
 
-**宋卓然**，蒋力。深度神经网络专用架构与压缩技术演进。中国计算机学会通讯，2021年第3期。
-
 Feiyang Wu, **Zhuoran Song**, Jing Ke, Li Jiang, Naifeng Jing and Xiaoyao Liang. PIPArch: Programmable Image Processing Architecture Using Sliding Array. Accepted by 2021 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA 2022, CCF-C). [[paper]](https://ieeexplore.ieee.org/abstract/document/9644888/) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:gYcee5FhPCUJ:scholar.google.com/&output=citation&scisdr=CgVK0WDnEPjT2KLplys:AAGBfm0AAAAAYjPvjystlhPn7uSHaGjSe30xRxIn3WYV&scisig=AAGBfm0AAAAAYjPvj36vXmywTB5v5eiQQNRBfhivNfsC&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
+# 2021
+
+**宋卓然**，蒋力。深度神经网络专用架构与压缩技术演进。中国计算机学会通讯，2021年第3期。
+
 **Zhuoran Song=**, Dongyue Li=, Zhezhi He, Xiaoyao Liang and Li Jiang. ReRAM-Sharing: Fine-Grained Weight Sharing for ReRAM-Based Deep Neural Network Accelerator. Accepted by IEEE International Symposium on Circuits and Systems (ISCAS 2021, CCF-C). [[paper]](https://ieeexplore.ieee.org/abstract/document/9401155) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:DnjWBzavqeUJ:scholar.google.com/&output=citation&scisdr=CgVK0WDnEPjT2KLpzkM:AAGBfm0AAAAAYjPv1kOkFzdY9w5lYwiG8AiZsp0J2oyf&scisig=AAGBfm0AAAAAYjPv1nguDzdZXOj5ULfbnA4zhxYqaQZg&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+
+# 2020
 
 **Zhuoran Song**, Feiyang Wu, Xueyuan Liu, Naifeng Jing and Xiaoyao Liang. VR-DANN: Real-Time Video Recognition via Decoder-Assisted Neural Network Acceleration. Accepted by IEEE/ACM International Symposium on Microarchitecture (MICRO 2020, CCF-A). [[paper]](https://ieeexplore.ieee.org/abstract/document/9251974/) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:eEP0G0kRLzAJ:scholar.google.com/&output=citation&scisdr=CgVK0WDnEPjT2KLp4yQ:AAGBfm0AAAAAYjPv-yThRhi1D_Otznbp5q72vJzvvgHE&scisig=AAGBfm0AAAAAYjPv-ws5nz5klawkfFyMhND6yTl4u9Y0&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
@@ -88,10 +98,14 @@ Feiyang Wu, **Zhuoran Song**, Jing Ke, Li Jiang, Naifeng Jing and Xiaoyao Liang.
 
 Zhaoming Jiang, **Zhuoran Song**, Naifeng Jing and Xiaoyao Liang. PRArch: Pattern-Based Reconfigurable Architecture for Deep Neural Network Acceleration. Accepted by IEEE International Conference on High Performance Computing and Communications (HPCC 2020, CCF-C). [[paper]](https://ieeexplore.ieee.org/abstract/document/9408033) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:kBFV-0BrhfwJ:scholar.google.com/&output=citation&scisdr=CgVK0WDnEPjT2KL2pnY:AAGBfm0AAAAAYjPwvnaaPzBoh8kZwaMHA1DQE2ouejR5&scisig=AAGBfm0AAAAAYjPwvqSjiQCq7l1TtszFI-ajTtFq8Bnp&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
+**Zhuoran Song**, Yilong Zhao, Yanan Sun, Xiaoyao Liang and Li Jiang. ESNreram: An Energy-Efficient Sparse Neural Network Based on Resistive Random-Access Memory. Accepted by ACM/IEEE Accepted by ACM/IEEE (GLSVLSI 2020, CCF-C). [[paper]](https://dl.acm.org/doi/abs/10.1145/3386263.3406897) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:XpHr1d7jUUwJ:scholar.google.com/&output=citation&scisdr=CgVK0WDnEPjT2KL3SfM:AAGBfm0AAAAAYjPxUfO8BxtCttBR9HZ9V4EuRwq0Cq83&scisig=AAGBfm0AAAAAYjPxUXAoLzgHZZLeMf8_8O-U5Ddh4N0X&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+
+# 2019
+
 **Zhuoran Song**, Dongyu Ru, Ru Wang, Hongru Huang, Zhenghao Peng, Jing Ke, Xiaoyao Liang, and Li Jiang. Approximate Random Dropout for DNN training acceleration in GPGPU. Accepted by ACM/IEEE Design Automation & Test in Europe Conference and Exhibition (DATE 2019, CCF-B). [[paper]](https://ieeexplore.ieee.org/abstract/document/8715135/) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:LWUg_SD3c-0J:scholar.google.com/&output=citation&scisdr=CgVK0WDnEPjT2KL3HDc:AAGBfm0AAAAAYjPxBDebblJef0T-nyvGHGvIAGpg80Uf&scisig=AAGBfm0AAAAAYjPxBGG6-i67_3eSgPibNcRExYMRYd7v&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
 **Zhuoran Song=**, Li Jiang=, Song H, et al. Energy-Efficient and Quality-Assured Approximate Computing Framework Using a Co-Training Method[J]. ACM Transactions on Design Automation of Electronic Systems (TODAES 2019, CCF-B). [[paper]](https://dl.acm.org/doi/abs/10.1145/3342239) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:XNS89O1SUe4J:scholar.google.com/&output=citation&scisdr=CgVK0WDnEPjT2KL3NNg:AAGBfm0AAAAAYjPxLNgalfu3-r0SG_K48XOYglmRqv40&scisig=AAGBfm0AAAAAYjPxLDb2n-4B9X1xvO6pxsBGzeJr3fXx&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
-**Zhuoran Song**, Yilong Zhao, Yanan Sun, Xiaoyao Liang and Li Jiang. ESNreram: An Energy-Efficient Sparse Neural Network Based on Resistive Random-Access Memory. Accepted by ACM/IEEE Accepted by ACM/IEEE (GLSVLSI 2020, CCF-C). [[paper]](https://dl.acm.org/doi/abs/10.1145/3386263.3406897) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:XpHr1d7jUUwJ:scholar.google.com/&output=citation&scisdr=CgVK0WDnEPjT2KL3SfM:AAGBfm0AAAAAYjPxUfO8BxtCttBR9HZ9V4EuRwq0Cq83&scisig=AAGBfm0AAAAAYjPxUXAoLzgHZZLeMf8_8O-U5Ddh4N0X&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+# 2018
 
 Haiyue Song, Li Jiang, Chengwen Xu, **Zhuoran Song**, Naifeng Jing, Xiaoyao Liang and Qiang Xu. Invocation-driven Neural Approximate Computing with a Multiclass-Classifier and Multiple Approximators. Accepted by ACM/IEEE International Conference on Computer-Aided Design (ICCAD 2018, CCF-B). [[paper]](https://dl.acm.org/doi/abs/10.1145/3240765.3240819) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:epvgja-q7sIJ:scholar.google.com/&output=citation&scisdr=CgVK0WDnEPjT2KL3Z_U:AAGBfm0AAAAAYjPxf_XHLLmwO6JQvPcH2M2oNBADfT1A&scisig=AAGBfm0AAAAAYjPxf2nE3KySXiunXlS7J88u6lxKj3Ck&scisf=4&ct=citation&cd=-1&hl=zh-CN)
