@@ -34,7 +34,7 @@ Xuhang Wang, **Zhuoran Song***, and Xiaoyao Liang. InterArch: Video Transformer 
 
 **Zhuoran Song**, Chunyu Qi, Yuanzheng Yao, Peng Zhou, Yanyi Zi, Nan Wang, and Xiaoyao Liang. TSAcc: An Efficient Tempo-Spatial Similarity Aware Accelerator for Attention Acceleration. Accepted by Design Automation Conference (DAC 2024, CCF-A).
 
-**Zhuoran Song**, Chunyu Qi, Fangxin Liu, Naifeng Jing, and Xiaoyao Liang. CMC: Video Transformer Acceleration via CODEC Assisted Matrix Condensing. Accepted by ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2024, CCF-A, Accept rate=18%).
+**Zhuoran Song**, Chunyu Qi, Fangxin Liu, Naifeng Jing, and Xiaoyao Liang. CMC: Video Transformer Acceleration via CODEC Assisted Matrix Condensing. Accepted by ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2024, CCF-A, Accept rate=14%).
 
 Xueyuan Liu, **Zhuoran Song***, Guohao Dai, Gang Li, Can Xiao, Yan Xiang, Dehui Kong, Ke Xu and Xiaoyao Liang. FusionArch: A Fusion-Based Accelerator for Point-Based Point Cloud Neural Networks. Accepted by Design, Automation, and Test in Europe (DATE 2024, CCF-B). <font color=red>Best Paper Nomination.</font>
 
