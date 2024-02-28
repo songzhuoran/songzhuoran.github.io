@@ -4,6 +4,9 @@ title: News
 comments: true
 ---
 
+* 2024.03. Our paper "FusionArch: A Fusion-Based Accelerator for Point-Based Point Cloud Neural Networks" has received Best Paper Award from DATE 2024.
+
+
 * 2024.02. We have three papers being accepted by DAC. Congratulations to Xueyuan and Xuhang.
 
 * 2023.11. We have two papers being accepted by DATE. Congratulations to Xueyuan.
