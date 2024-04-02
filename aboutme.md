@@ -38,6 +38,8 @@ I am an assistant professor at Shanghai Jiao Tong University (SJTU), working on 
 
 ## Professional Service
 
+* TPC member for ICCAD 2024
+* PC of the PhD Forum at DAC2024
 * TPC member for ICCD 2023
 * TPC member for ICCAD 2023
 * TPC member for DAC 2023
