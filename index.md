@@ -118,4 +118,4 @@ Haiyue Song, Li Jiang, Chengwen Xu, **Zhuoran Song**, Naifeng Jing, Xiaoyao Lian
 
 
 <!--<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=3940d6&w=250&t=tt&d=t_3EZfsmAdKNbs6ySa1ZT3o4FiggghoZ4SW5XnyOVAc&co=ffe791'></script>-->
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=4226ed&w=250&t=n&d=RqR0-tM_DVHQvWiaE4Tf3z1GNHZmopCIm2IAW2lkG3k&co=fce593'></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=4226ed&w=250&t=tt&d=RqR0-tM_DVHQvWiaE4Tf3z1GNHZmopCIm2IAW2lkG3k&co=fce593'></script>
