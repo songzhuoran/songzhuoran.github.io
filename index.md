@@ -117,5 +117,5 @@ Li Jiang=, **Zhuoran Song=**, Song H, et al. Energy-Efficient and Quality-Assure
 Haiyue Song, Li Jiang, Chengwen Xu, **Zhuoran Song**, Naifeng Jing, Xiaoyao Liang and Qiang Xu. Invocation-driven Neural Approximate Computing with a Multiclass-Classifier and Multiple Approximators. Accepted by ACM/IEEE International Conference on Computer-Aided Design (ICCAD 2018, CCF-B). [[paper]](https://dl.acm.org/doi/abs/10.1145/3240765.3240819) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:epvgja-q7sIJ:scholar.google.com/&output=citation&scisdr=CgVK0WDnEPjT2KL3Z_U:AAGBfm0AAAAAYjPxf_XHLLmwO6JQvPcH2M2oNBADfT1A&scisig=AAGBfm0AAAAAYjPxf2nE3KySXiunXlS7J88u6lxKj3Ck&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=3940d6&w=250&t=tt&d=t_3EZfsmAdKNbs6ySa1ZT3o4FiggghoZ4SW5XnyOVAc&co=ffe791'></script>
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=RqR0-tM_DVHQvWiaE4Tf3z1GNHZmopCIm2IAW2lkG3k'></script>
+<!--<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=3940d6&w=250&t=tt&d=t_3EZfsmAdKNbs6ySa1ZT3o4FiggghoZ4SW5XnyOVAc&co=ffe791'></script>-->
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=4226ed&w=250&t=n&d=RqR0-tM_DVHQvWiaE4Tf3z1GNHZmopCIm2IAW2lkG3k&co=fce593'></script>
