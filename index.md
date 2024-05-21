@@ -28,6 +28,8 @@ Remark: = indicates equal contribution.
 
 # 2024
 
+Xing Li, **Zhuoran Song***, Rachata Ausavarungnirun, Xiao Liu, Xueyuan Liu, Xuan Zhang, Xuhang Wang, Jiayao Ling, Gang Li, Naifeng Jing and Xiaoyao Liang. Janus: A Flexible Processing-in-Memory Graph Accelerator Towards Sparsity. Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2024, CCF-A).
+
 Xuan Zhang, **Zhuoran Song***, Zhezhi He, Naifeng Jing, Li Jiang, and Xiaoyao Liang. Watt: A Write-optimized RRAM-based Accelerator for Attention. Accepted by European Conference on Parallel Processing (Euro-Par 2024, CCF-B).
 
 Xueyuan Liu, **Zhuoran Song***, Hao Chen, Xing Li, and Xiaoyao Liang. MoC: A Morton-Code-Based Fine-Grained Quantization for Accelerating Point Cloud Neural Networks. Accepted by Design Automation Conference (DAC 2024, CCF-A).
