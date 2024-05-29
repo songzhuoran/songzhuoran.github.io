@@ -28,7 +28,7 @@ Remark: = indicates equal contribution.
 
 # 2024
 
-Xing Li, **Zhuoran Song***, Rachata Ausavarungnirun, Xiao Liu, Xueyuan Liu, Xuan Zhang, Xuhang Wang, Jiayao Ling, Gang Li, Naifeng Jing and Xiaoyao Liang. Janus: A Flexible Processing-in-Memory Graph Accelerator Towards Sparsity. Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2024, CCF-A).
+Xing Li, **Zhuoran Song***, Rachata Ausavarungnirun, Xiao Liu, Xueyuan Liu, Xuan Zhang, Xuhang Wang, Jiayao Ling, Gang Li, Naifeng Jing and Xiaoyao Liang. Janus: A Flexible Processing-in-Memory Graph Accelerator Towards Sparsity. Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2024, CCF-A). [[paper]](https://ieeexplore.ieee.org/document/10540086)
 
 Xuan Zhang, **Zhuoran Song***, Zhezhi He, Naifeng Jing, Li Jiang, and Xiaoyao Liang. Watt: A Write-optimized RRAM-based Accelerator for Attention. Accepted by European Conference on Parallel Processing (Euro-Par 2024, CCF-B).
 
@@ -38,13 +38,13 @@ Xuhang Wang, **Zhuoran Song***, and Xiaoyao Liang. InterArch: Video Transformer 
 
 **Zhuoran Song**, Chunyu Qi, Yuanzheng Yao, Peng Zhou, Yanyi Zi, Nan Wang, and Xiaoyao Liang. TSAcc: An Efficient Tempo-Spatial Similarity Aware Accelerator for Attention Acceleration. Accepted by Design Automation Conference (DAC 2024, CCF-A).
 
-**Zhuoran Song**, Chunyu Qi, Fangxin Liu, Naifeng Jing, and Xiaoyao Liang. CMC: Video Transformer Acceleration via CODEC Assisted Matrix Condensing. Accepted by ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2024, CCF-A, Accept rate=14%).
+**Zhuoran Song**, Chunyu Qi, Fangxin Liu, Naifeng Jing, and Xiaoyao Liang. CMC: Video Transformer Acceleration via CODEC Assisted Matrix Condensing. Accepted by ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2024, CCF-A, Accept rate=14%). [[paper]](https://dl.acm.org/doi/10.1145/3620665.3640393) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:-X7pi34717sJ:scholar.google.com/&output=citation&scisdr=ClEJvdsgEJmf6vyNOuo:AFWwaeYAAAAAZlaLIuoP9wrsikqJmP6UVv_-zRU&scisig=AFWwaeYAAAAAZlaLIkrniLq1HJ5nM6-MZ0xliOE&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
 Xueyuan Liu, **Zhuoran Song***, Guohao Dai, Gang Li, Can Xiao, Yan Xiang, Dehui Kong, Ke Xu and Xiaoyao Liang. FusionArch: A Fusion-Based Accelerator for Point-Based Point Cloud Neural Networks. Accepted by Design, Automation, and Test in Europe (DATE 2024, CCF-B). <font color=red>Best Paper Award.</font>
 
 Xueyuan Liu, **Zhuoran Song***, Xiang Liao, Xing Li, Tao Yang, Fangxin Liu and Xiaoyao Liang. Sava: A Spatial- and Value-Aware Accelerator for Point Cloud Transformers. Accepted by Design, Automation, and Test in Europe (DATE 2024, CCF-B).
 
-Fangxin Liu, Ning Yang, Haomin Li, Zongwu Wang, **Zhuoran Song**, Songwen Pei, Li Jiang. SPARK: Scalable and Precision-Aware Acceleration of Neural Networks via Efficient Encoding. Accepted by High Performance Computer Architecture (HPCA 2024, CCF-A).
+Fangxin Liu, Ning Yang, Haomin Li, Zongwu Wang, **Zhuoran Song**, Songwen Pei, Li Jiang. SPARK: Scalable and Precision-Aware Acceleration of Neural Networks via Efficient Encoding. Accepted by High Performance Computer Architecture (HPCA 2024, CCF-A). [[paper]](https://ieeexplore.ieee.org/abstract/document/10476472/) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:UiSB028IBLoJ:scholar.google.com/&output=citation&scisdr=ClEJvdsgEJmf6vyM9Xk:AFWwaeYAAAAAZlaK7XkVdDMsAgGAHuRo5R6dixM&scisig=AFWwaeYAAAAAZlaK7Q138qfz4ZaPxk-39dGLCXE&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
 # 2023
 
