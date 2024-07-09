@@ -38,7 +38,7 @@ Remark: = indicates equal contribution.
 
 [C26] Xuhang Wang, **Zhuoran Song***, and Xiaoyao Liang. InterArch: Video Transformer Acceleration via Inter-Feature Deduplication with Cube-based Dataflow. Accepted by Design Automation Conference (DAC 2024, CCF-A).
 
-[C25] **Zhuoran Song**, Chunyu Qi, Yuanzheng Yao, Peng Zhou, Yanyi Zi, Nan Wang, and Xiaoyao Liang. TSAcc: An Efficient Tempo-Spatial Similarity Aware Accelerator for Attention Acceleration. Accepted by Design Automation Conference (DAC 2024, CCF-A).
+[C25] **Zhuoran Song***, Chunyu Qi, Yuanzheng Yao, Peng Zhou, Yanyi Zi, Nan Wang, and Xiaoyao Liang. TSAcc: An Efficient Tempo-Spatial Similarity Aware Accelerator for Attention Acceleration. Accepted by Design Automation Conference (DAC 2024, CCF-A).
 
 [C24] **Zhuoran Song**, Chunyu Qi, Fangxin Liu, Naifeng Jing, and Xiaoyao Liang. CMC: Video Transformer Acceleration via CODEC Assisted Matrix Condensing. Accepted by ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2024, CCF-A, Accept rate=14%). [[paper]](https://dl.acm.org/doi/10.1145/3620665.3640393) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:-X7pi34717sJ:scholar.google.com/&output=citation&scisdr=ClEJvdsgEJmf6vyNOuo:AFWwaeYAAAAAZlaLIuoP9wrsikqJmP6UVv_-zRU&scisig=AFWwaeYAAAAAZlaLIkrniLq1HJ5nM6-MZ0xliOE&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
