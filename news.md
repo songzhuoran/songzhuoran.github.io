@@ -3,6 +3,9 @@ layout: page
 title: News
 comments: true
 ---
+
+* 2024.07. Our paper "SRender: Boosting Neural Radiance Field Efficiency via Sensitivity-Aware Dynamic Precision Rendering" has been accepted by MICRO.
+
 * 2024.07. Our paper "Environmental Condition Aware Super-Resolution Acceleration Framework in Server-Client Hierarchies" has been accepted by TACO.
   
 * 2024.06. We have shared our paper "CMC: Video Transformer Acceleration via CODEC Assisted Matrix Condensing" in ChinaSys24 [[link]](https://1300723556.vod2.myqcloud.com/f30c0e09vodsh1300723556/5b16f29a1253642698737099677/aLhJQ6LPrNIA.mp4).
