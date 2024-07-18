@@ -28,6 +28,8 @@ Remark: = indicates equal contribution.
 
 # 2024
 
+[C29] **Zhuoran Song***, Houshu He, Fangxin Liu, Yifan Hao, Xinkai Song, Li Jiang, and Xiaoyao Liang. SRender: Boosting Neural Radiance Field Efficiency via Sensitivity-Aware Dynamic Precision Rendering. Accepted by IEEE/ACM International Symposium on Microarchitecture (MICRO 2024, CCF-A).
+
 [J9] **Zhuoran Song***, Zhongkai Yu, Xinkai Song, Yifan Hao, Li Jiang, Naifeng Jing and Xiaoyao Liang. Environmental Condition Aware Super-Resolution Acceleration Framework in Server-Client Hierarchies. Accepted by ACM Transactions on Architecture and Code Optimization (TACO 2024, CCF-A).
 
 [J8] Xing Li, **Zhuoran Song***, Rachata Ausavarungnirun, Xiao Liu, Xueyuan Liu, Xuan Zhang, Xuhang Wang, Jiayao Ling, Gang Li, Naifeng Jing and Xiaoyao Liang. Janus: A Flexible Processing-in-Memory Graph Accelerator Towards Sparsity. Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2024, CCF-A). [[paper]](https://ieeexplore.ieee.org/document/10540086)
