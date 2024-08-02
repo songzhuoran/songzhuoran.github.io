@@ -28,6 +28,8 @@ Remark: = indicates equal contribution.
 
 # 2024
 
+[C30] Xuan Zhang, **Zhuoran Song***, Peng Zhou, Xing Li, Xueyuan Liu, Xiaolong Lin, Zhezhi He, Li Jiang, Naifeng Jing and Xiaoyao Liang. WIFA: A Weight Importance- and Frequency-aware Accelerator for SNN. Accepted by IEEE International Conference on Computer Design (ICCD 2024, CCF-B).
+
 [C29] **Zhuoran Song***, Houshu He, Fangxin Liu, Yifan Hao, Xinkai Song, Li Jiang, and Xiaoyao Liang. SRender: Boosting Neural Radiance Field Efficiency via Sensitivity-Aware Dynamic Precision Rendering. Accepted by IEEE/ACM International Symposium on Microarchitecture (MICRO 2024, CCF-A).
 
 [J9] **Zhuoran Song***, Zhongkai Yu, Xinkai Song, Yifan Hao, Li Jiang, Naifeng Jing and Xiaoyao Liang. Environmental Condition Aware Super-Resolution Acceleration Framework in Server-Client Hierarchies. Accepted by ACM Transactions on Architecture and Code Optimization (TACO 2024, CCF-A). [[paper]](https://dl.acm.org/doi/abs/10.1145/3678008) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:EK4zeOsCAX4J:scholar.google.com/&output=citation&scisdr=ClHXRoIoEO6r1C36Zo0:AFWwaeYAAAAAZpn8fo2aS1oxQC5vku8NF99dvc8&scisig=AFWwaeYAAAAAZpn8fvKe1CNxnaXDwVpahqUkyjQ&scisf=4&ct=citation&cd=-1&hl=zh-CN)
