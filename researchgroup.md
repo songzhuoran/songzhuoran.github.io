@@ -20,11 +20,8 @@ comments: true
 * Chunyu Qi (co-supervised, 2022-)
 * Jiabei Long (co-supervised, 2022-)
 
-## Undergraduate
-* Yifan Jia (2022-)
-* Qi'ao Liu (2022-)
-
 ## Alumni
+* Yifan Jia (2024, Johns Hopkins University)
 * Zhuoheng Li (2023, University of Michigan)
 * Keye Chen (2023, University of Michigan)
 * Qiyue Huang (2023, Shanghai Jiao Tong University)
