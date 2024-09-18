@@ -14,7 +14,6 @@ comments: true
 
 ## Master
 * Hangcheng Dong (Supervised, 2024-)
-* Boxiao Du (Supervised, 2024-)
 * Huayu Guo (Supervised, 2024-)
 * Yuanzheng Yao (Supervised, 2023-)
 * Chunyu Qi (co-supervised, 2022-)
