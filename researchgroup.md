@@ -5,6 +5,7 @@ comments: true
 ---
 
 ## PhD
+* Haozhe Jiang (co-supervised, 2024-)
 * Ruiyang Chen (co-supervised, 2023-)
 * Houshu He (co-supervised, 2023-)
 * Xuhang Wang (co-supervised, 2020-)
