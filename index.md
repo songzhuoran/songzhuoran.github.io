@@ -28,6 +28,8 @@ Remark: = indicates equal contribution.
 
 # 2024
 
+[J10] **Zhuoran Song***, Jiabei Long, Li Jiang, Naifeng Jing and Xiaoyao Liang. GCNTrain+: A Versatile and Efficient Accelerator for Graph Convolutional Neural Network Training (TACO 2024, CCF-A).
+
 [C30] Xuan Zhang, **Zhuoran Song***, Peng Zhou, Xing Li, Xueyuan Liu, Xiaolong Lin, Zhezhi He, Li Jiang, Naifeng Jing and Xiaoyao Liang. WIFA: A Weight Importance- and Frequency-aware Accelerator for SNN. Accepted by IEEE International Conference on Computer Design (ICCD 2024, CCF-B).
 
 [C29] **Zhuoran Song**, Houshu He, Fangxin Liu, Yifan Hao, Xinkai Song, Li Jiang, and Xiaoyao Liang. SRender: Boosting Neural Radiance Field Efficiency via Sensitivity-Aware Dynamic Precision Rendering. Accepted by IEEE/ACM International Symposium on Microarchitecture (MICRO 2024, CCF-A).
