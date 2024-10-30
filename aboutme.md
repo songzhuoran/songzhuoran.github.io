@@ -38,14 +38,17 @@ I am an assistant professor at Shanghai Jiao Tong University (SJTU), working on 
 
 ## Professional Service
 
+* TPC member for DAC 2025
 * TPC member for ICCAD 2024
 * PC of the PhD Forum at DAC2024
 * TPC member for ICCD 2023
 * TPC member for ICCAD 2023
 * TPC member for DAC 2023
+* Reviewer of IEEE Transactions on Computers (TC)
+* Reviewer of IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+* Reviewer of ACM Transactions on Architecture and Code Optimization (TACO)
 * Reviewer of IEEE Transactions on Circuits and Systems I (TCAS-I)
 * Reviewer of ACM Transactions on Design Automation of Electronic System (TODAES)
-* Reviewer of IEEE Transactions on Computers (TC)
 * Reviewer of ACM Transactions on Embedded Computing Systems (TECS)
 
 
