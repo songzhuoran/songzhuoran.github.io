@@ -30,15 +30,19 @@ Remark: = indicates equal contribution.
 
 [J10] **Zhuoran Song***, Jiabei Long, Li Jiang, Naifeng Jing and Xiaoyao Liang. GCNTrain+: A Versatile and Efficient Accelerator for Graph Convolutional Neural Network Training. Accepted by ACM Transactions on Architecture and Code Optimization (TACO 2024, CCF-A).
 
-[C30] Xuan Zhang, **Zhuoran Song***, Peng Zhou, Xing Li, Xueyuan Liu, Xiaolong Lin, Zhezhi He, Li Jiang, Naifeng Jing and Xiaoyao Liang. WIFA: A Weight Importance- and Frequency-aware Accelerator for SNN. Accepted by IEEE International Conference on Computer Design (ICCD 2024, CCF-B).
+[C32] Xuan Zhang, **Zhuoran Song***, Peng Zhou, Xing Li, Xueyuan Liu, Xiaolong Lin, Zhezhi He, Li Jiang, Naifeng Jing and Xiaoyao Liang. WIFA: A Weight Importance- and Frequency-aware Accelerator for SNN. Accepted by IEEE International Conference on Computer Design (ICCD 2024, CCF-B).
 
-[C29] **Zhuoran Song**, Houshu He, Fangxin Liu, Yifan Hao, Xinkai Song, Li Jiang, and Xiaoyao Liang. SRender: Boosting Neural Radiance Field Efficiency via Sensitivity-Aware Dynamic Precision Rendering. Accepted by IEEE/ACM International Symposium on Microarchitecture (MICRO 2024, CCF-A).
+[C31] **Zhuoran Song**, Houshu He, Fangxin Liu, Yifan Hao, Xinkai Song, Li Jiang, and Xiaoyao Liang. SRender: Boosting Neural Radiance Field Efficiency via Sensitivity-Aware Dynamic Precision Rendering. Accepted by IEEE/ACM International Symposium on Microarchitecture (MICRO 2024, CCF-A).
 
 [J9] **Zhuoran Song***, Zhongkai Yu, Xinkai Song, Yifan Hao, Li Jiang, Naifeng Jing and Xiaoyao Liang. Environmental Condition Aware Super-Resolution Acceleration Framework in Server-Client Hierarchies. Accepted by ACM Transactions on Architecture and Code Optimization (TACO 2024, CCF-A). [[paper]](https://dl.acm.org/doi/abs/10.1145/3678008) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:EK4zeOsCAX4J:scholar.google.com/&output=citation&scisdr=ClHXRoIoEO6r1C36Zo0:AFWwaeYAAAAAZpn8fo2aS1oxQC5vku8NF99dvc8&scisig=AFWwaeYAAAAAZpn8fvKe1CNxnaXDwVpahqUkyjQ&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
 [J8] Xing Li, **Zhuoran Song***, Rachata Ausavarungnirun, Xiao Liu, Xueyuan Liu, Xuan Zhang, Xuhang Wang, Jiayao Ling, Gang Li, Naifeng Jing and Xiaoyao Liang. Janus: A Flexible Processing-in-Memory Graph Accelerator Towards Sparsity. Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2024, CCF-A). [[paper]](https://ieeexplore.ieee.org/document/10540086) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:xggOSNHSNAQJ:scholar.google.com/&output=citation&scisdr=ClHXRoIoEO6r1C36sR4:AFWwaeYAAAAAZpn8qR47p2fl2nWl4GYerew-q7A&scisig=AFWwaeYAAAAAZpn8qVttRX-g76b0GxNYFHA2wgQ&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
-[C28] Xuan Zhang, **Zhuoran Song***, Zhezhi He, Naifeng Jing, Li Jiang, and Xiaoyao Liang. Watt: A Write-optimized RRAM-based Accelerator for Attention. Accepted by European Conference on Parallel Processing (Euro-Par 2024, CCF-B).
+[C30] Xuan Zhang, **Zhuoran Song***, Zhezhi He, Naifeng Jing, Li Jiang, and Xiaoyao Liang. Watt: A Write-optimized RRAM-based Accelerator for Attention. Accepted by European Conference on Parallel Processing (Euro-Par 2024, CCF-B).
+
+[C29] Fangxin Liu, Ning Yang, Haomin Li, Zongwu Wang, **Zhuoran Song**, Songwen Pei, Li Jiang. EOS: An Energy-Oriented Attack Framework for Spiking Neural Networks. Accepted by Design Automation Conference (DAC 2024, CCF-A).
+
+[C28] Fangxin Liu, Ning Yang, Haomin Li, Zongwu Wang, **Zhuoran Song**, Songwen Pei, Li Jiang. INSPIRE: Accelerating Deep Neural Networks via Hardware-friendly Index-Pair Encoding. Accepted by Design Automation Conference (DAC 2024, CCF-A).
 
 [C27] Xueyuan Liu, **Zhuoran Song***, Hao Chen, Xing Li, and Xiaoyao Liang. MoC: A Morton-Code-Based Fine-Grained Quantization for Accelerating Point Cloud Neural Networks. Accepted by Design Automation Conference (DAC 2024, CCF-A).
 
