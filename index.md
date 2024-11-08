@@ -30,7 +30,9 @@ Remark: = indicates equal contribution.
 
 [C33] Houshu He, Gang Li, Fangxin Liu, Li Jiang, Xiaoyao Liang, and **Zhuoran Song***. GSArch: Breaking Memory Barriers in 3D Guassian Splatting Training via Architectural Support. Accepted by IEEE International Symposium on High-Performance Computer Architecture (HPCA 2024, CCF-A).
 
-[J10] **Zhuoran Song***, Jiabei Long, Li Jiang, Naifeng Jing and Xiaoyao Liang. GCNTrain+: A Versatile and Efficient Accelerator for Graph Convolutional Neural Network Training. Accepted by ACM Transactions on Architecture and Code Optimization (TACO 2024, CCF-A).
+[J11] **Zhuoran Song***, Jiabei Long, Li Jiang, Naifeng Jing and Xiaoyao Liang. GCNTrain+: A Versatile and Efficient Accelerator for Graph Convolutional Neural Network Training. Accepted by ACM Transactions on Architecture and Code Optimization (TACO 2024, CCF-A).
+
+[J10] Shuai Yuan, Weifeng He, Zhenhua Zhu, Fangxin Liu, **Zhuoran Song**, Guohao Dai, Guanghui He, and Yanan Sun. HyCTor: A Hybrid CNN-Transformer Network Accelerator With Flexible Weight/Output Stationary Dataflow and Multi-Core Extension. Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2024, CCF-A).
 
 [C32] Xuan Zhang, **Zhuoran Song***, Peng Zhou, Xing Li, Xueyuan Liu, Xiaolong Lin, Zhezhi He, Li Jiang, Naifeng Jing and Xiaoyao Liang. WIFA: A Weight Importance- and Frequency-aware Accelerator for SNN. Accepted by IEEE International Conference on Computer Design (ICCD 2024, CCF-B).
 
