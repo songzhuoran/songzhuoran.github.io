@@ -28,6 +28,8 @@ Remark: = indicates equal contribution.
 
 # 2025
 
+[J12] Xuhang Wang, Qiyue Huang, Xing Li, Haozhe Jiang, Qiang X, Xiaoyao Liang, and **Zhuoran Song***. Vision Transformer Acceleration via a Versatile Attention Optimization Framework. Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2025, CCF-A).
+
 [C33] Houshu He, Gang Li, Fangxin Liu, Li Jiang, Xiaoyao Liang, and **Zhuoran Song***. GSArch: Breaking Memory Barriers in 3D Guassian Splatting Training via Architectural Support. Accepted by IEEE International Symposium on High-Performance Computer Architecture (HPCA 2025, CCF-A).
 
 [J11] **Zhuoran Song***, Jiabei Long, Li Jiang, Naifeng Jing and Xiaoyao Liang. GCNTrain+: A Versatile and Efficient Accelerator for Graph Convolutional Neural Network Training. Accepted by ACM Transactions on Architecture and Code Optimization (TACO 2025, CCF-A).
