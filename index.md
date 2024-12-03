@@ -20,7 +20,6 @@ cover-img:
     - "assets/img/Netherlands1.jpg": "荷兰，阿姆斯特丹 (2023-04)" 
     - "assets/img/Netherlands2.jpg": "荷兰，阿姆斯特丹 (2023-04)" 
     - "assets/img/Netherlands3.jpg": "荷兰，阿姆斯特丹 (2023-04)"
-    - "assets/img/spain1.jpg": "西班牙，巴塞罗那 (2024-08)" 
     - "assets/img/spain2.jpg": "西班牙，巴塞罗那 (2024-08)" 
     - "assets/img/austin.jpg": "美国，奥斯汀 (2024-11)" 
 ---
