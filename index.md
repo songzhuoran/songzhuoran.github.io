@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zhuoran Song
-(宋卓然)
+title: (宋卓然)
 subtitle: "Assistant Professor in the Department of Computer Science and Engineering @ Shanghai Jiao Tong University"
 comments: true
 cover-img:
