@@ -6,6 +6,10 @@ comments: true
 
 Hi, I'm Zhuoran Song (宋卓然). I am an assistant professor at Shanghai Jiao Tong University (SJTU), working on computer architecture, AI-specific accelerator design, and AI performance optimization methods. Before joining SJTU, I received my Ph.D. degree from Shanghai Jiao Tong University of Computer Science and Technology, under the supervision of Prof. Xiaoyao Liang. And I had the privilege of working closely with Prof. Li Jiang and Prof. Naifeng Jing during my PhD. My Bachelor degree is from Huazhong University of Science and Technology, where I was advised by Prof. Yu Hua. I have received the Outstanding Doctoral Dissertation Award from the Shanghai Computer Society, the ACM Chinasys Excellent Doctoral Dissertation Award, and the Best Paper Award at DATE 2023 and DATE 2024. Up to now, I have published over 40 papers, including in top-tier architecture conferences and journals such as ISCA, MICRO, ASPLOS, HPCA, DAC, TPDS, TCAD, and TACO.
 
+## Opening
+I am looking for self-motivated PhD, Master and research assistant students. Please send me an email with your CV if you are interested in computer architecture, high-performance computing, and AI accelerator design.
+本团队长期招收博士、硕士生和对科研感兴趣的本科生，如果你对体系结构/高性能计算/AI加速器等方向感兴趣，欢迎发邮件与我们交流。
+
 ## Questions about me
 
 * 对学生的态度是什么？What is the attitude towards students?
@@ -50,11 +54,7 @@ Hi, I'm Zhuoran Song (宋卓然). I am an assistant professor at Shanghai Jiao T
 * Reviewer of IEEE Transactions on Circuits and Systems I (TCAS-I)
 * Reviewer of ACM Transactions on Design Automation of Electronic System (TODAES)
 * Reviewer of ACM Transactions on Embedded Computing Systems (TECS)
-
-
-## Recruitment
-Our [team](https://acalab.sjtu.edu.cn/CN/Default.aspx) is looking for self-motivated PhD, Master and Undergraduate students who are interested in Computer architecture or Efficient AI/ML algorithms. If you want to join us, please email me your CV.
-
+  
 
 ## Contact
 
