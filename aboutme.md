@@ -50,6 +50,7 @@ I am looking for self-motivated PhD, Master and research assistant students. Ple
 * TPC member for DAC 2023
 * Reviewer of IEEE Transactions on Computers (TC)
 * Reviewer of IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+* Reviewer of IEEE Transactions on Parallel and Distributed Systems (TPDS)
 * Reviewer of ACM Transactions on Architecture and Code Optimization (TACO)
 * Reviewer of IEEE Transactions on Circuits and Systems I (TCAS-I)
 * Reviewer of ACM Transactions on Design Automation of Electronic System (TODAES)
