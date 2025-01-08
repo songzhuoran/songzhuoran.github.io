@@ -10,8 +10,6 @@ comments: true
 * Houshu He (co-supervised, 2023-)
 * Xuhang Wang (co-supervised, 2020-)
 * Xueyuan Liu (co-supervised, 2020-)
-* Xuan Zhang (co-supervised, 2019-)
-* Xing Li (co-supervised, 2020-)
 
 ## Master
 * Hangcheng Dong (Supervised, 2024-)
