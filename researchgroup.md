@@ -19,6 +19,8 @@ comments: true
 * Jiabei Long (co-supervised, 2022-)
 
 ## Alumni
+* Xuan Zhang (2024)
+* Xing Li (2024)
 * Yifan Jia (2024, Johns Hopkins University)
 * Zhuoheng Li (2023, University of Michigan)
 * Keye Chen (2023, University of Michigan)
