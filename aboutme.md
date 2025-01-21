@@ -10,6 +10,8 @@ Hi, I'm Zhuoran Song (宋卓然). I am an assistant professor at Shanghai Jiao T
 I am looking for self-motivated PhD, Master and research assistant students. Please send me an email with your CV if you are interested in computer architecture, high-performance computing, and heterogeneous AI accelerator design.
 本团队长期招收博士、硕士生和对科研感兴趣的本科生，如果你对体系结构/高性能计算/异构AI加速器等方向感兴趣，欢迎发邮件与我们交流。
 
+I'm recruiting **2** candidates for master's degrees and **1** candidate for a doctoral degree. 2025年还剩**2**个硕士指标和**1**个博士指标，请想报考我们团队的同学尽快与我们联系。
+
 ## Questions about me
 
 * 对学生的态度是什么？What is the attitude towards students?
