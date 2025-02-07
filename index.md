@@ -30,6 +30,8 @@ Remark: = indicates equal contribution.
 
 # 2025
 
+[C34] Ruiyang Chen, **Zhuoran Song***, Xing Li, and Xiaoyao Liang. GIFTS: Efficient GCN Inference Framework on PyTorch-CPU via Exploring the Sparsity. Accepted by IEEE International Parallel & Distributed Processing Symposium (IPDPS 2025, CCF-B).
+
 [J12] Xuhang Wang, Qiyue Huang, Xing Li, Haozhe Jiang, Qiang Xu, Xiaoyao Liang, and **Zhuoran Song***. Vision Transformer Acceleration via a Versatile Attention Optimization Framework. Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2025, CCF-A).
 
 [C33] Houshu He, Gang Li, Fangxin Liu, Li Jiang, Xiaoyao Liang, and **Zhuoran Song***. GSArch: Breaking Memory Barriers in 3D Guassian Splatting Training via Architectural Support. Accepted by IEEE International Symposium on High-Performance Computer Architecture (HPCA 2025, CCF-A).
