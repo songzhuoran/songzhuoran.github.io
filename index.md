@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zhuoran Song
-subtitle: "Assistant Professor in the Department of Computer Science and Engineering @ Shanghai Jiao Tong University"
+subtitle: "Associate Professor in the Department of Computer Science and Engineering @ Shanghai Jiao Tong University"
 comments: true
 cover-img:
     - "assets/img/sailimuhu.jpg": "新疆，赛里木湖 (2021-09)" 
