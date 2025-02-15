@@ -30,6 +30,12 @@ Remark: = indicates equal contribution.
 
 # 2025
 
+[C37] Chunyu Qi, Xuhang Wang, Ruiyang Chen, Yuanzheng Yao, Naifeng Jing, Chen Zhang, Jun Wang, Zhihui Fu, Xiaoyao Liang and **Zhuoran Song***. MHDiff: Memory- and Hardware-Efficient Diffusion Acceleration via Focal Pixel Aware Quantization. Accepted by Design Automation Conference (DAC 2025, CCF-A).
+
+[C36] Yuanzheng Yao, Chen Zhang, Chunyu Qi, Ruiyang Chen, Jun Wang, Zhihui Fu, Naifeng Jing, Xiaoyao Liang and **Zhuoran Song***. SynGPU: Synergizing CUDA and Bit-Serial Tensor Cores for Vision Transformer Acceleration on GPU. Accepted by Design Automation Conference (DAC 2025, CCF-A).
+
+[C35] Ruiyang Chen, Xueyuan Liu, Chunyu Qi, Yuanzheng Yao, Yanan Sun, Xiaoyao Liang and **Zhuoran Song***. SAGA: A Memory-Efficient Accelerator for GANN Construction via Harnessing Vertex Similarity. Accepted by Design Automation Conference (DAC 2025, CCF-A).
+
 [C34] Ruiyang Chen, Xing Li, Xiaoyao Liang, and **Zhuoran Song***. GIFTS: Efficient GCN Inference Framework on PyTorch-CPU via Exploring the Sparsity. Accepted by IEEE International Parallel & Distributed Processing Symposium (IPDPS 2025, CCF-B).
 
 [J12] Xuhang Wang, Qiyue Huang, Xing Li, Haozhe Jiang, Qiang Xu, Xiaoyao Liang, and **Zhuoran Song***. Vision Transformer Acceleration via a Versatile Attention Optimization Framework. Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2025, CCF-A).
