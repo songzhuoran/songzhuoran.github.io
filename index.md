@@ -30,6 +30,8 @@ Remark: = indicates equal contribution.
 
 # 2025
 
+[J13] Xuhang Wang, **Zhuoran Song***, Chunyu Qi, Fangxin Liu, Naifeng Jing, Li Jiang, and Xiaoyao Liang. RTSA: A Run-Through Sparse Attention Framework for Video Transformer. Accepted by IEEE Transactions on Computers (TC 2025, CCF-A).
+
 [C37] Chunyu Qi, Xuhang Wang, Ruiyang Chen, Yuanzheng Yao, Naifeng Jing, Chen Zhang, Jun Wang, Zhihui Fu, Xiaoyao Liang, and **Zhuoran Song***. MHDiff: Memory- and Hardware-Efficient Diffusion Acceleration via Focal Pixel Aware Quantization. Accepted by Design Automation Conference (DAC 2025, CCF-A).
 
 [C36] Yuanzheng Yao, Chen Zhang, Chunyu Qi, Ruiyang Chen, Jun Wang, Zhihui Fu, Naifeng Jing, Xiaoyao Liang, and **Zhuoran Song***. SynGPU: Synergizing CUDA and Bit-Serial Tensor Cores for Vision Transformer Acceleration on GPU. Accepted by Design Automation Conference (DAC 2025, CCF-A).
