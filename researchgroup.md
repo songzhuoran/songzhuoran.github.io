@@ -5,6 +5,7 @@ comments: true
 ---
 
 ## PhD
+* Chunyu Qi (co-supervised, 2025-)
 * Haozhe Jiang (co-supervised, 2024-)
 * Ruiyang Chen (co-supervised, 2023-)
 * Houshu He (co-supervised, 2023-)
@@ -15,10 +16,10 @@ comments: true
 * Hangcheng Dong (Supervised, 2024-)
 * Huayu Guo (Supervised, 2024-)
 * Yuanzheng Yao (Supervised, 2023-)
-* Chunyu Qi (co-supervised, 2022-)
-* Jiabei Long (co-supervised, 2022-)
 
 ## Alumni
+* Chunyu Qi (2025, SJTU)
+* Jiabei Long (2025, Nvidia)
 * Xuan Zhang (2024)
 * Xing Li (2024)
 * Yifan Jia (2024, Johns Hopkins University)
