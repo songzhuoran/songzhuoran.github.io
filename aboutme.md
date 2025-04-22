@@ -7,10 +7,12 @@ comments: true
 Hi, I'm Zhuoran Song (宋卓然). I am an associate professor at Shanghai Jiao Tong University (SJTU), working on computer architecture, AI-specific accelerator design, and AI performance optimization methods. Before joining SJTU, I received my Ph.D. degree from Shanghai Jiao Tong University of Computer Science and Technology, under the supervision of Prof. Xiaoyao Liang. And I had the privilege of working closely with Prof. Li Jiang and Prof. Naifeng Jing during my PhD. My Bachelor degree is from Huazhong University of Science and Technology, where I was advised by Prof. Yu Hua. I have received the Outstanding Doctoral Dissertation Award from the Shanghai Computer Society, the ACM Chinasys Excellent Doctoral Dissertation Award, and the Best Paper Award at DATE 2023 and DATE 2024. Up to now, I have published over 40 papers, including in top-tier architecture conferences and journals such as ISCA, MICRO, ASPLOS, HPCA, DAC, TPDS, TCAD, and TACO.
 
 ## Opening
-I am looking for self-motivated PhD, Master and research assistant students. Please send me an email with your CV if you are interested in computer architecture, heterogeneous AI accelerator design, and embodied AI.
-本团队长期招收博士、硕士生和对科研感兴趣的本科生，如果你对体系结构/异构AI加速器/具身智能等方向感兴趣，欢迎发邮件与我们交流。
+I am looking for self-motivated PhD, Master, and research assistant students. Please send me an email with your CV if you are interested in computer architecture, heterogeneous AI accelerator design, embodied AI, and 3D reconstruction.
+本团队长期招收博士、硕士生和对科研感兴趣的本科生，如果你对体系结构/异构AI加速器/具身智能/三维重建等方向感兴趣，欢迎发邮件与我们交流。
 
 I'm recruiting **4** candidates for master's degrees and **2** candidates for a doctoral degree. 2026年还剩**4**个硕士指标和**2**个博士指标，请想报考我们团队的同学尽快与我们联系。
+
+I am looking for **1-2** self-motivated research assistant students for 3DGS acceleration. 目前正在招生1-2名科研助理参与团队3DGS算法性能优化/加速方向的工作，欢迎对3DGS算法/三维重建感兴趣的同学与我联系。
 
 ## Questions about me
 
