@@ -32,7 +32,7 @@ Remark: = indicates equal contribution.
 
 [C39] Fangxin Liu, Haomin Li, Bowen Zhu, Zongwu Wang, **Zhuoran Song***, Haibing Guan, and Li Jiang. ASDR: Exploiting Adaptive Sampling and Data Reuse for CIM-based Instant Neural Rendering. Accepted by ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2026, CCF-A).
 
-[C38] Tianbo Liu, Xinkai Song, Zhifei Yue, Rui Wen, Xing Hu, **Zhuoran Song**, Yuanbo Wen, Yifan Hao, Wei Li, Zidong Du, Rui Zhang, Jiaming Guo, Di Huang, Shaohui Peng, GuangZhong Sun, Qi Guo, and Tianshi Chen. NeuSET: An Accelerator for Neural Scene Representation with Sparse Encoding Table. Accepted by IEEE/ACM International Symposium on Computer Architecture (ISCA 2025, CCF-A).
+[C38] Tianbo Liu, Xinkai Song, Zhifei Yue, Rui Wen, Xing Hu, **Zhuoran Song**, Yuanbo Wen, Yifan Hao, Wei Li, Zidong Du, Rui Zhang, Jiaming Guo, Di Huang, Shaohui Peng, GuangZhong Sun, Qi Guo, and Tianshi Chen. Cambricon-SR: An Accelerator for Neural Scene Representation with Sparse Encoding Table. Accepted by IEEE/ACM International Symposium on Computer Architecture (ISCA 2025, CCF-A).
 
 [J13] Xuhang Wang, **Zhuoran Song***, Chunyu Qi, Fangxin Liu, Naifeng Jing, Li Jiang, and Xiaoyao Liang. RTSA: A Run-Through Sparse Attention Framework for Video Transformer. Accepted by IEEE Transactions on Computers (TC 2025, CCF-A).
 
