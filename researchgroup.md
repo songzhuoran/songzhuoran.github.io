@@ -9,8 +9,6 @@ comments: true
 * Haozhe Jiang (co-supervised, 2024-)
 * Ruiyang Chen (co-supervised, 2023-)
 * Houshu He (co-supervised, 2023-)
-* Xuhang Wang (co-supervised, 2020-)
-* Xueyuan Liu (co-supervised, 2020-)
 
 ## Master
 * Hangcheng Dong (Supervised, 2024-)
@@ -18,6 +16,8 @@ comments: true
 * Yuanzheng Yao (Supervised, 2023-)
 
 ## Alumni
+* Xuhang Wang (2025, Huawei Technologies Co., Ltd.)
+* Xueyuan Liu (2025, Li Auto Inc.)
 * Chunyu Qi (2025, SJTU)
 * Jiabei Long (2025, Nvidia)
 * Xuan Zhang (2024)
