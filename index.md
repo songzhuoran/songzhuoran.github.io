@@ -28,11 +28,17 @@ Remark: * indicates correspondence.
 
 Remark: = indicates equal contribution.
 
-# 2025
+# 2026
+
+[C42] Ruiyang Chen, **Zhuoran Song***, Yicheng Zheng, Zeyu Zhu, Gang Li, Naifeng Jing, Xiaoyao Liang, Haibing Guan. HEAT: NPU-NDP HEterogeneous Architecture for Transformer-Empowered Graph Neural Networks. Accepted by IEEE/ACM International Symposium on Microarchitecture (MICRO 2026, CCF-A).
+
+[C41] Minnan Pei, Gang Li, Junwen Si, Zeyu Zhu, Zitao Mo, Peisong Wang, **Zhuoran Song**, Xiaoyao Liang, Jian Cheng. GCC: A 3DGS Inference Architecture with Gaussian-Wise and Cross-Stage Conditional Processing. Accepted by IEEE/ACM International Symposium on Microarchitecture (MICRO 2026, CCF-A).
 
 [C40] Houshu He, Naifeng Jing, Li Jiang, Xiaoyao Liang, **Zhuoran Song***. AGS: Accelerating 3D Gaussian Splatting SLAM via CODEC-Assisted Frame Covisibility Detection. Accepted by ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2026, CCF-A).
 
 [C39] Fangxin Liu, Haomin Li, Bowen Zhu, Zongwu Wang, **Zhuoran Song***, Haibing Guan, and Li Jiang. ASDR: Exploiting Adaptive Sampling and Data Reuse for CIM-based Instant Neural Rendering. Accepted by ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2026, CCF-A).
+
+# 2025
 
 [C38] Tianbo Liu, Xinkai Song, Zhifei Yue, Rui Wen, Xing Hu, **Zhuoran Song**, Yuanbo Wen, Yifan Hao, Wei Li, Zidong Du, Rui Zhang, Jiaming Guo, Di Huang, Shaohui Peng, GuangZhong Sun, Qi Guo, and Tianshi Chen. Cambricon-SR: An Accelerator for Neural Scene Representation with Sparse Encoding Table. Accepted by IEEE/ACM International Symposium on Computer Architecture (ISCA 2025, CCF-A).
 
