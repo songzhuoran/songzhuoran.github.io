@@ -32,7 +32,7 @@ Remark: = indicates equal contribution.
 
 [C42] Houshu He, Naifeng Jing, Li Jiang, Xiaoyao Liang, **Zhuoran Song***. AGS: Accelerating 3D Gaussian Splatting SLAM via CODEC-Assisted Frame Covisibility Detection. Accepted by ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2026, CCF-A).
 
-[C41] Fangxin Liu, Haomin Li, Bowen Zhu, Zongwu Wang, **Zhuoran Song***, Haibing Guan, and Li Jiang. ASDR: Exploiting Adaptive Sampling and Data Reuse for CIM-based Instant Neural Rendering. Accepted by ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2026, CCF-A).
+[C41] Fangxin Liu, Haomin Li, Bowen Zhu, Zongwu Wang, **Zhuoran Song**, Haibing Guan, and Li Jiang. ASDR: Exploiting Adaptive Sampling and Data Reuse for CIM-based Instant Neural Rendering. Accepted by ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2026, CCF-A).
 
 # 2025
 
