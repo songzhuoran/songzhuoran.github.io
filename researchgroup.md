@@ -11,6 +11,8 @@ comments: true
 * Houshu He (co-supervised, 2023-)
 
 ## Master
+* Yicheng Zheng (Supervised, 2025-)
+* Landi Gao (Supervised, 2025-)
 * Hangcheng Dong (Supervised, 2024-)
 * Huayu Guo (Supervised, 2024-)
 * Yuanzheng Yao (Supervised, 2023-)
