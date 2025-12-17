@@ -30,25 +30,29 @@ Remark: = indicates equal contribution.
 
 # 2026
 
-[C42] Houshu He, Naifeng Jing, Li Jiang, Xiaoyao Liang, **Zhuoran Song***. AGS: Accelerating 3D Gaussian Splatting SLAM via CODEC-Assisted Frame Covisibility Detection. Accepted by ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2026, CCF-A).
-
-[C41] Fangxin Liu, Haomin Li, Bowen Zhu, Zongwu Wang, **Zhuoran Song**, Haibing Guan, and Li Jiang. ASDR: Exploiting Adaptive Sampling and Data Reuse for CIM-based Instant Neural Rendering. Accepted by ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2026, CCF-A).
+[C44] Houshu He, Naifeng Jing, Li Jiang, Xiaoyao Liang, **Zhuoran Song***. AGS: Accelerating 3D Gaussian Splatting SLAM via CODEC-Assisted Frame Covisibility Detection. Accepted by ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2026, CCF-A).
 
 # 2025
 
-[C40] Ruiyang Chen, **Zhuoran Song***, Yicheng Zheng, Zeyu Zhu, Gang Li, Naifeng Jing, Xiaoyao Liang, Haibing Guan. HEAT: NPU-NDP HEterogeneous Architecture for Transformer-Empowered Graph Neural Networks. Accepted by IEEE/ACM International Symposium on Microarchitecture (MICRO 2025, CCF-A).
+[C43] Ruiyang Chen, **Zhuoran Song***, Yicheng Zheng, Zeyu Zhu, Gang Li, Naifeng Jing, Xiaoyao Liang, Haibing Guan. HEAT: NPU-NDP HEterogeneous Architecture for Transformer-Empowered Graph Neural Networks. Accepted by IEEE/ACM International Symposium on Microarchitecture (MICRO 2025, CCF-A).
 
-[C39] Minnan Pei, Gang Li, Junwen Si, Zeyu Zhu, Zitao Mo, Peisong Wang, **Zhuoran Song**, Xiaoyao Liang, Jian Cheng. GCC: A 3DGS Inference Architecture with Gaussian-Wise and Cross-Stage Conditional Processing. Accepted by IEEE/ACM International Symposium on Microarchitecture (MICRO 2025, CCF-A).
+[C42] Minnan Pei, Gang Li, Junwen Si, Zeyu Zhu, Zitao Mo, Peisong Wang, **Zhuoran Song**, Xiaoyao Liang, Jian Cheng. GCC: A 3DGS Inference Architecture with Gaussian-Wise and Cross-Stage Conditional Processing. Accepted by IEEE/ACM International Symposium on Microarchitecture (MICRO 2025, CCF-A).
 
-[C38] Tianbo Liu, Xinkai Song, Zhifei Yue, Rui Wen, Xing Hu, **Zhuoran Song**, Yuanbo Wen, Yifan Hao, Wei Li, Zidong Du, Rui Zhang, Jiaming Guo, Di Huang, Shaohui Peng, GuangZhong Sun, Qi Guo, and Tianshi Chen. Cambricon-SR: An Accelerator for Neural Scene Representation with Sparse Encoding Table. Accepted by IEEE/ACM International Symposium on Computer Architecture (ISCA 2025, CCF-A).
+[C41] Fangxin Liu, Haomin Li, Bowen Zhu, Zongwu Wang, **Zhuoran Song**, Haibing Guan, and Li Jiang. ASDR: Exploiting Adaptive Sampling and Data Reuse for CIM-based Instant Neural Rendering. Accepted by ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2026, CCF-A).
+
+[C40] Tianbo Liu, Xinkai Song, Zhifei Yue, Rui Wen, Xing Hu, **Zhuoran Song**, Yuanbo Wen, Yifan Hao, Wei Li, Zidong Du, Rui Zhang, Jiaming Guo, Di Huang, Shaohui Peng, GuangZhong Sun, Qi Guo, and Tianshi Chen. Cambricon-SR: An Accelerator for Neural Scene Representation with Sparse Encoding Table. Accepted by IEEE/ACM International Symposium on Computer Architecture (ISCA 2025, CCF-A).
 
 [J13] Xuhang Wang, **Zhuoran Song***, Chunyu Qi, Fangxin Liu, Naifeng Jing, Li Jiang, and Xiaoyao Liang. RTSA: A Run-Through Sparse Attention Framework for Video Transformer. Accepted by IEEE Transactions on Computers (TC 2025, CCF-A).
 
-[C37] Chunyu Qi, Xuhang Wang, Ruiyang Chen, Yuanzheng Yao, Naifeng Jing, Chen Zhang, Jun Wang, Zhihui Fu, Xiaoyao Liang, and **Zhuoran Song***. MHDiff: Memory- and Hardware-Efficient Diffusion Acceleration via Focal Pixel Aware Quantization. Accepted by Design Automation Conference (DAC 2025, CCF-A).
+[C39] Chunyu Qi, Xuhang Wang, Ruiyang Chen, Yuanzheng Yao, Naifeng Jing, Chen Zhang, Jun Wang, Zhihui Fu, Xiaoyao Liang, and **Zhuoran Song***. MHDiff: Memory- and Hardware-Efficient Diffusion Acceleration via Focal Pixel Aware Quantization. Accepted by Design Automation Conference (DAC 2025, CCF-A).
 
-[C36] Yuanzheng Yao, Chen Zhang, Chunyu Qi, Ruiyang Chen, Jun Wang, Zhihui Fu, Naifeng Jing, Xiaoyao Liang, and **Zhuoran Song***. SynGPU: Synergizing CUDA and Bit-Serial Tensor Cores for Vision Transformer Acceleration on GPU. Accepted by Design Automation Conference (DAC 2025, CCF-A).
+[C38] Yuanzheng Yao, Chen Zhang, Chunyu Qi, Ruiyang Chen, Jun Wang, Zhihui Fu, Naifeng Jing, Xiaoyao Liang, and **Zhuoran Song***. SynGPU: Synergizing CUDA and Bit-Serial Tensor Cores for Vision Transformer Acceleration on GPU. Accepted by Design Automation Conference (DAC 2025, CCF-A).
 
-[C35] Ruiyang Chen, Xueyuan Liu, Chunyu Qi, Yuanzheng Yao, Yanan Sun, Xiaoyao Liang, and **Zhuoran Song***. SAGA: A Memory-Efficient Accelerator for GANN Construction via Harnessing Vertex Similarity. Accepted by Design Automation Conference (DAC 2025, CCF-A).
+[C37] Ruiyang Chen, Xueyuan Liu, Chunyu Qi, Yuanzheng Yao, Yanan Sun, Xiaoyao Liang, and **Zhuoran Song***. SAGA: A Memory-Efficient Accelerator for GANN Construction via Harnessing Vertex Similarity. Accepted by Design Automation Conference (DAC 2025, CCF-A).
+
+[C36] Haomin Li, Fangxin Liu, Zongwu Wang, Dongxu Lyu, Shiyuan Huang, Ning Yang, Qi Sun, **Zhuoran Song**, Li Jiang. TAIL: Exploiting Temporal Asynchronous Execution for Efficient Spiking Neural Networks with Inter-Layer Parallelism. Accepted by Design, Automation & Test in Europe Conference (DATE 2025, CCF-B).
+
+[C35] Cheng Gu, Gang Li, Xuan Zhang, Jiayao Ling, Xiaolong Lin, **Zhuoran Song**, Jian Cheng, Xiaoyao Liang. Light-DiT: An Importance-Aware Dynamic Compression Framework for Diffusion Transformers. Accepted by European Conference on Parallel Processing (Euro-Par 2025, CCF-B).
 
 [C34] Ruiyang Chen, Xing Li, Xiaoyao Liang, and **Zhuoran Song***. GIFTS: Efficient GCN Inference Framework on PyTorch-CPU via Exploring the Sparsity. Accepted by IEEE International Parallel & Distributed Processing Symposium (IPDPS 2025, CCF-B).
 
