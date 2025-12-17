@@ -30,7 +30,10 @@ Remark: = indicates equal contribution.
 
 # 2026
 
-[C44] Houshu He, Naifeng Jing, Li Jiang, Xiaoyao Liang, **Zhuoran Song***. AGS: Accelerating 3D Gaussian Splatting SLAM via CODEC-Assisted Frame Covisibility Detection. Accepted by ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2026, CCF-A).
+[C45] Houshu He, Naifeng Jing, Li Jiang, Xiaoyao Liang, **Zhuoran Song***. AGS: Accelerating 3D Gaussian Splatting SLAM via CODEC-Assisted Frame Covisibility Detection. Accepted by ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2026, CCF-A).
+
+[C44] Chen Zhang, Qijun Zhang*, Zhuoshan Zhou, Yijia Diao, Haibo Wang, Zhe Zhou, Zhipeng Tu, Zhiyao Li, Zhiyao Xie, Guangyu Sun, **Zhuoran Song**, Zhigang Ji, Jingwen Leng, Minyi Guo. Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems. Accepted by High Performance Computer Architecture (HPCA 2026, CCF-A).
+
 
 # 2025
 
