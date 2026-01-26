@@ -6,6 +6,7 @@ comments: true
 
 ## PhD
 * Chunyu Qi (co-supervised, 2025-)
+* Xiaolong Lin (co-supervised, 2024-)
 * Haozhe Jiang (co-supervised, 2024-)
 * Ruiyang Chen (co-supervised, 2023-)
 * Houshu He (co-supervised, 2023-)
