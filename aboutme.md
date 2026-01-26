@@ -10,7 +10,7 @@ Hi, I'm Zhuoran Song (宋卓然). I am an associate professor at Shanghai Jiao T
 I am looking for self-motivated PhD, Master, and research assistant students. Please send me an email with your CV if you are interested in computer architecture, heterogeneous AI accelerator design, GPU architecture design, embodied AI, and 3D reconstruction.
 本团队长期招收博士、硕士生和对科研感兴趣的本科生，如果你对体系结构/异构AI加速器/GPU架构设计/具身智能/三维重建等方向感兴趣，欢迎发邮件与我们交流。
 
-I'm recruiting **4** candidates for master's degrees and **2** candidates for a doctoral degree. 2026年还剩**4**个硕士指标和**2**个博士指标，请想报考我们团队的同学尽快与我们联系。
+I'm recruiting **1** candidates for master's degree. 2026年还剩**1**个硕士指标，请想报考我们团队的同学尽快与我们联系。
 
 I am looking for **1-2** self-motivated research assistant students for 3DGS acceleration. 目前正在招生1-2名科研助理参与团队3DGS算法在GPU上的性能优化方向工作，欢迎对GPU/3DGS算法/三维重建感兴趣的同学与我联系。
 
