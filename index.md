@@ -30,6 +30,12 @@ Remark: = indicates equal contribution.
 
 # 2026
 
+[C47] Chunyu Qi, **Zhuoran Song***, Cheng Gu, Zhihui Fu, Jianglong Chang, Jun Wang, Xiaoyao Liang and Haibing Guan. Excavating Consistency Across Editing Steps for Effective Multi-Step Image Editing. Accepted by Design Automation Conference (DAC 2026, CCF-A).
+
+[C46] Xulin Zhang, Yupeng Hu, **Zhuoran Song**, Shucheng Huang and Qi Sun. FUSE-TCAD: A Diffusion-Based Multi-Field Surrogate for High-Fidelity TCAD Device Simulation. Accepted by Design Automation Conference (DAC 2026, CCF-A).
+
+[J14] Cheng Gu, Gang Li, Jiayao Lin, **Zhuoran Song**, Jian Cheng, Xiaoyao Liang. Importance-Aware Dynamic Compression for Efficient Diffusion Models Inference. Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2026, CCF-A).
+
 [C45] Houshu He, Naifeng Jing, Li Jiang, Xiaoyao Liang, **Zhuoran Song***. AGS: Accelerating 3D Gaussian Splatting SLAM via CODEC-Assisted Frame Covisibility Detection. Accepted by ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2026, CCF-A).
 
 [C44] Chen Zhang, Qijun Zhang, Zhuoshan Zhou, Yijia Diao, Haibo Wang, Zhe Zhou, Zhipeng Tu, Zhiyao Li, Zhiyao Xie, Guangyu Sun, **Zhuoran Song**, Zhigang Ji, Jingwen Leng, Minyi Guo. Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems. Accepted by High Performance Computer Architecture (HPCA 2026, CCF-A).
