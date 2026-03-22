@@ -32,7 +32,7 @@ Remark: = indicates equal contribution.
 
 [C47] Chunyu Qi, **Zhuoran Song***, Cheng Gu, Zhihui Fu, Jianglong Chang, Jun Wang, Xiaoyao Liang and Haibing Guan. Excavating Consistency Across Editing Steps for Effective Multi-Step Image Editing. Accepted by Design Automation Conference (DAC 2026, CCF-A).
 
-[C46] Xulin Zhang, Yupeng Hu, **Zhuoran Song**, Shucheng Huang and Qi Sun. FUSE-TCAD: A Diffusion-Based Multi-Field Surrogate for High-Fidelity TCAD Device Simulation. Accepted by Design Automation Conference (DAC 2026, CCF-A).
+[C46] Xulin Zhang, Yupeng Hu, **Zhuoran Song**, Shucheng Huang, Qi Sun. FUSE-TCAD: A Diffusion-Based Multi-Field Surrogate for High-Fidelity TCAD Device Simulation. Accepted by Design Automation Conference (DAC 2026, CCF-A).
 
 [J14] Cheng Gu, Gang Li, Jiayao Lin, **Zhuoran Song**, Jian Cheng, Xiaoyao Liang. Importance-Aware Dynamic Compression for Efficient Diffusion Models Inference. Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2026, CCF-A).
 
