@@ -30,7 +30,12 @@ Remark: = indicates equal contribution.
 
 # 2026
 
-[C47] Chunyu Qi, **Zhuoran Song***, Cheng Gu, Zhihui Fu, Jianglong Chang, Jun Wang, Xiaoyao Liang and Haibing Guan. Excavating Consistency Across Editing Steps for Effective Multi-Step Image Editing. Accepted by Design Automation Conference (DAC 2026, CCF-A).
+[C49] **Zhuoran Song**, Chunyu Qi, Jian Weng, Xiaoyao Liang, Haibing Guan. AQuant: Repurposing CODEC for VLM Acceleration via Adaptive Quantization. Accepted by IEEE/ACM International Symposium on Computer Architecture (ISCA 2026, CCF-A)
+
+[C48] Zhican Wang, Guanghui He, Lingjun Gao, Dantong Liu, Shell Xu Hu, Chen Zhang, Zhuoran Song, Nicholas Lane, Hongxiang Fan. Optimizing 3D Gaussian Splatting with Axis-Shared Rasterization and Order-independent Transmittance. Accepted by IEEE/ACM International Symposium on Computer Architecture (ISCA 2026, CCF-A)
+
+
+[C47] Chunyu Qi, **Zhuoran Song***, Cheng Gu, Zhihui Fu, Jianglong Chang, Jun Wang, Xiaoyao Liang, Haibing Guan. Excavating Consistency Across Editing Steps for Effective Multi-Step Image Editing. Accepted by Design Automation Conference (DAC 2026, CCF-A).
 
 [C46] Xulin Zhang, Yupeng Hu, **Zhuoran Song**, Shucheng Huang, Qi Sun. FUSE-TCAD: A Diffusion-Based Multi-Field Surrogate for High-Fidelity TCAD Device Simulation. Accepted by Design Automation Conference (DAC 2026, CCF-A).
 
