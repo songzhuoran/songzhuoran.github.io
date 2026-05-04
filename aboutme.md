@@ -46,8 +46,8 @@ I am looking for **1-2** self-motivated research assistant students for 3DGS acc
 
 ## Professional Service
 
-* Program Co-Chair for RTCSA 2026
-* Workshop Co-Chair for APPT 2026
+* Program Chair for RTCSA 2026
+* Workshop Chair for APPT 2026
 * TPC member for MICRO 2026
 * TPC member for ISCA 2026
 * TPC member for ICCAD 2026
