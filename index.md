@@ -30,6 +30,14 @@ Remark: = indicates equal contribution.
 
 # 2026
 
+[C53] Chunyu Qi, **Zhuoran Song***, Jian Weng, Haozhe Jiang, Xueyuan Liu, Naifeng Jing, Guanghui He, Xiaoyao Liang, Haibing Guan. SpecVLA: Enabling Efficient Robotic Manipulation via Speculative VLA Inference and Verification. Accepted by IEEE/ACM International Symposium on Microarchitecture (MICRO 2026, CCF-A)
+
+[C52] **Zhuoran Song**, Haozhe Jiang, Chunyu Qi, Minnan Pei, Gang Li, Xiaoyao Liang, Haibing Guan. VQVLA: Motion-Aware Vector Quantization with Computation Fusion for VLA Acceleration. Accepted by IEEE/ACM International Symposium on Microarchitecture (MICRO 2026, CCF-A)
+
+[C51] Minnan Pei, Gang Li, Zeyu Zhu, Siting Wang, Junwen Si, **Zhuoran Song**, Yu Feng, Fangxin Liu, Xiaoyao Liang, Jian Cheng. DeGS: A Scalable 3DGS Architecture via Decoupled Workload Parsing and Reorganization. Accepted by IEEE/ACM International Symposium on Microarchitecture (MICRO 2026, CCF-A)
+
+[C50] Tielong Liu, Zeyu Zhu, Gang Li, Zitao Mo, Chen Bai, Junwen Si, Peihuan Ni, Minnan Pei, Peisong Wang, **Zhuoran Song**, Xiaoyao Liang, Jian Cheng. FLUTE: A LUT-Based Floating-Point Engine for Efficient LLM Acceleration Exploiting Core-Tail Hierarchical Alignment. Accepted by IEEE/ACM International Symposium on Microarchitecture (MICRO 2026, CCF-A)
+
 [C49] **Zhuoran Song**, Chunyu Qi, Jian Weng, Xiaoyao Liang, Haibing Guan. AQuant: Repurposing CODEC for VLM Acceleration via Adaptive Quantization. Accepted by IEEE/ACM International Symposium on Computer Architecture (ISCA 2026, CCF-A)
 
 [C48] Zhican Wang, Guanghui He, Lingjun Gao, Dantong Liu, Shell Xu Hu, Chen Zhang, **Zhuoran Song**, Nicholas Lane, Hongxiang Fan. Optimizing 3D Gaussian Splatting with Axis-Shared Rasterization and Order-independent Transmittance. Accepted by IEEE/ACM International Symposium on Computer Architecture (ISCA 2026, CCF-A)
