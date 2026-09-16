@@ -5,6 +5,9 @@ comments: true
 ---
 
 ## PhD
+* Shaoyu Chen (Supervised, 2026-)
+* Junhong Qian (Supervised, 2026-)
+* Yihan Lu (co-supervised, 2026-)
 * Chunyu Qi (co-supervised, 2025-)
 * Xiaolong Lin (co-supervised, 2024-)
 * Haozhe Jiang (co-supervised, 2024-)
@@ -12,13 +15,15 @@ comments: true
 * Houshu He (co-supervised, 2023-)
 
 ## Master
+* Zidong Wang (Supervised, 2026-)
+* Wenchao Nie (Supervised, 2026-)
 * Yicheng Zheng (Supervised, 2025-)
 * Landi Gao (Supervised, 2025-)
 * Hangcheng Dong (Supervised, 2024-)
 * Huayu Guo (Supervised, 2024-)
-* Yuanzheng Yao (Supervised, 2023-)
 
 ## Alumni
+* Yuanzheng Yao (2026, Nvidia)
 * Xuhang Wang (2025, Huawei Technologies Co., Ltd.)
 * Xueyuan Liu (2025, Li Auto Inc.)
 * Chunyu Qi (2025, SJTU)
