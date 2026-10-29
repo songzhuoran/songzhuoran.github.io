@@ -1,4 +1,3 @@
-<img width="1320" height="2868" alt="a0ed78716fab94ce94e24cfea0002a01" src="https://github.com/user-attachments/assets/d1bd5c9f-186a-43e4-b3f5-fed8e9f23b79" />---
 layout: page
 title: Zhuoran Song
 subtitle: "Associate Professor in the Department of Computer Science and Engineering @ Shanghai Jiao Tong University"
