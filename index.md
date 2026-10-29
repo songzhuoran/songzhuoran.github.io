@@ -1,4 +1,4 @@
----
+<img width="1320" height="2868" alt="a0ed78716fab94ce94e24cfea0002a01" src="https://github.com/user-attachments/assets/d1bd5c9f-186a-43e4-b3f5-fed8e9f23b79" />---
 layout: page
 title: Zhuoran Song
 subtitle: "Associate Professor in the Department of Computer Science and Engineering @ Shanghai Jiao Tong University"
@@ -28,9 +28,15 @@ Remark: * indicates correspondence.
 
 Remark: = indicates equal contribution.
 
+# 2027
+
+[C54] Ruiyang Chen, Hangcheng Dong, **Zhuoran Song***, Rui Ma, Yuliang Chen, Shuyun Gui, Bangqi Fu, Xiaoyao Liang, Haibing Guan. FlexSpGEMM: Adaptive Tiling and Hybrid Execution for SpGEMM on Modern GPUs. Accepted by ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP 2027, CCF-A)
+
 # 2026
 
 [C53] Chunyu Qi, **Zhuoran Song***, Jian Weng, Haozhe Jiang, Xueyuan Liu, Naifeng Jing, Guanghui He, Xiaoyao Liang, Haibing Guan. SpecVLA: Enabling Efficient Robotic Manipulation via Speculative VLA Inference and Verification. Accepted by IEEE/ACM International Symposium on Microarchitecture (MICRO 2026, CCF-A)
+
+[J15] **Zhuoran Song**, Hangcheng Dong, Xueyuan Liu, Zhihui Fu, Jun Wang, Zhaoxiang Wang, Jian Weng, Xiaoyao Liang, Haibing Guan. PQuant: Point Cloud Neural Network Acceleration via a Versatile Quantization Framework. Accepted by ACM Transactions on Architecture and Code Optimization (TACO 2026, CCF-A).
 
 [C52] **Zhuoran Song**, Haozhe Jiang, Chunyu Qi, Minnan Pei, Gang Li, Xiaoyao Liang, Haibing Guan. VQVLA: Motion-Aware Vector Quantization with Computation Fusion for VLA Acceleration. Accepted by IEEE/ACM International Symposium on Microarchitecture (MICRO 2026, CCF-A)
 
@@ -52,7 +58,6 @@ Remark: = indicates equal contribution.
 [C45] Houshu He, Naifeng Jing, Li Jiang, Xiaoyao Liang, **Zhuoran Song***. AGS: Accelerating 3D Gaussian Splatting SLAM via CODEC-Assisted Frame Covisibility Detection. Accepted by ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2026, CCF-A).
 
 [C44] Chen Zhang, Qijun Zhang, Zhuoshan Zhou, Yijia Diao, Haibo Wang, Zhe Zhou, Zhipeng Tu, Zhiyao Li, Zhiyao Xie, Guangyu Sun, **Zhuoran Song**, Zhigang Ji, Jingwen Leng, Minyi Guo. Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems. Accepted by High Performance Computer Architecture (HPCA 2026, CCF-A).
-
 
 # 2025
 
